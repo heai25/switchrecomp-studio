@@ -1,5 +1,5 @@
 # switchrecomp
-
+ # this fork is still a work in progress
 Turns your own Nintendo Switch game dumps into native Windows executables. It is a front end over
 [Kirikae](https://github.com/Cor3Duo/kirikae) (MIT/Apache-2.0), a Rust static recompiler: the game's
 AArch64 code is lifted to an IR, compiled with Cranelift into a native `.exe`, and linked with
