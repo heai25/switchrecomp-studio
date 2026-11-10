@@ -1,0 +1,34 @@
+﻿switchrecomp: reading F:\oot-decrypted
+switchrecomp: analysing The Legend of Zelda Ocarina of Time (1) (4 modules)
+switchrecomp: 275535 functions, 93.53% of 18067364 instructions reachable from entry points
+switchrecomp: seeded unreached code with 0 exported symbols and 12983 prologues: 289456 functions, 97.20% reachable (28.8s)
+switchrecomp: linking with LLD (C:\Users\irish\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\bin\rust-lld.exe)
+switchrecomp: recompiling into E:\switchrecomp-studio\games\oot
+kirikae: tagged E:\switchrecomp-studio\games\oot\oot.seeds.profile as guest 91fcf0ad831ee063
+kirikae: 12983 interpreted addresses from E:\switchrecomp-studio\games\oot\oot.seeds.profile become functions
+kirikae: 289456 functions, 17562015 of 18067364 instructions reachable (4.9s)
+kirikae: code generation 16/283 objects
+kirikae: code generation 32/283 objects
+kirikae: code generation 48/283 objects
+kirikae: code generation 64/283 objects
+kirikae: code generation 80/283 objects
+kirikae: code generation 96/283 objects
+kirikae: code generation 112/283 objects
+kirikae: code generation 128/283 objects
+kirikae: code generation 144/283 objects
+kirikae: code generation 160/283 objects
+kirikae: code generation 176/283 objects
+kirikae: code generation 192/283 objects
+kirikae: code generation 208/283 objects
+kirikae: code generation 224/283 objects
+kirikae: code generation 240/283 objects
+kirikae: code generation 256/283 objects
+kirikae: code generation 272/283 objects
+kirikae: code generation 283/283 objects
+kirikae: generated 22220647 instructions in 168.2s
+   Compiling oot v0.1.0 (E:\switchrecomp-studio\games\oot\oot-build)
+   Compiling kirikae-rt v0.1.2 (E:\switchrecomp-studio\kirikae-src\crates\rt)
+    Finished `release` profile [optimized] target(s) in 37.33s
+
+switchrecomp: 289456 functions (17562015 of 18067364 instructions reachable, 97.20%) -> E:\switchrecomp-studio\games\oot\oot.exe in 241s (lld)
+switchrecomp: play it with `switchrecomp play oot`; after a session, `switchrecomp refine oot`

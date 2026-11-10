@@ -1,0 +1,18 @@
+kirikae: svcGetInfo id 29 (subid 0) answered with 0
+kirikae: svcGetInfo id 30 (subid 0) answered with 0
+kirikae: am/IApplicationProxy command 60 is stubbed (in: 0 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+kirikae: am/IApplicationProxy command 40 is stubbed (in: 0 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+kirikae: am/ICommonStateGetter command 900 is stubbed (in: 0 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+kirikae: am/IApplicationFunctions command 320 is stubbed (in: 0 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+kirikae: am/IApplicationFunctions command 321 is stubbed (in: 0 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+kirikae: am/ISelfController command 2400 is stubbed (in: 1 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+kirikae: pctl/IParentalControlService command 1 is stubbed (in: 0 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+kirikae: coverage: new services item #10: am/ISelfController 14 (stub, plain ok) at 0.2s, frame 0
+kirikae: coverage: new services item #11: am/ISelfController 11 (stub, plain ok) at 0.2s, frame 0
+kirikae: coverage: new services item #12: am/ISelfController 12 (stub, plain ok) at 0.2s, frame 0
+kirikae: guest access to unmapped address 0x0 on thread 81 near pc=sdk+0x59a6d8 (_ZN2nn2oe42SetGraphicsScaleChangedNotificationEnabledEb+0x18) (lr=sdk+0x59a6d8 (_ZN2nn2oe42SetGraphicsScaleChangedNotificationEnabledEb+0x18), sp=0x4000ffdb0)
+    called from main+0x11c2074 (nnMain+0xc4)
+    called from sdk+0x1351f8 (_ZN2nn4init5StartEmmPFvvES2_S2_+0x58)
+    called from rtld+0x8c
+
+switchrecomp: the game exited with exit code: 4; see the log above, and `switchrecomp coverage oot`

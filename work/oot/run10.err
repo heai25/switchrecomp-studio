@@ -1,0 +1,20 @@
+kirikae: svcGetInfo id 29 (subid 0) answered with 0
+kirikae: svcGetInfo id 30 (subid 0) answered with 0
+kirikae: am/ICommonStateGetter command 900 is stubbed (in: 0 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+kirikae: am/IApplicationFunctions command 320 is stubbed (in: 0 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+kirikae: am/IApplicationFunctions command 321 is stubbed (in: 0 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+kirikae: am/ISelfController command 2400 is stubbed (in: 1 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+kirikae: pctl/IParentalControlService command 1 is stubbed (in: 0 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+kirikae: the application set its terminate result to 0xca01 (module 1, description 101)
+kirikae: guest called svcBreak(reason=0x0, 0x4000fff0c, 0x4) at sdk+0x1a5560 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x390)
+kirikae:   info: 01 ca 00 00 (result 0xca01 = 2001-0101)
+kirikae:   called from sdk+0xb8ec8 (_ZN2nn4diag6detail10VAbortImplEPKcS3_S3_iPKNS_6ResultEPKNS_2os17UserExceptionInfoES3_RSt9__va_list+0xd8)
+kirikae:   called from sdk+0xb8f78 (_ZN2nn4diag6detail9AbortImplEPKcS3_S3_iPKNS_6ResultES3_z+0x58)
+kirikae:   called from sdk+0xb9068 (_ZN2nn4diag6detail9AbortImplEPKNS_6ResultE+0x28)
+kirikae:   called from sdk+0x16f2a8 (_ZN2nn2os6detail30MemoryHeapManagerImplByHorizon11SetHeapSizeEPmm+0x68)
+kirikae:   called from sdk+0x16af34 (_ZN2nn2os6detail17MemoryHeapManager11SetHeapSizeEm+0x54)
+kirikae:   called from main+0x25bbcdc (nninitStartup+0xec)
+kirikae:   called from sdk+0x1351e8 (_ZN2nn4init5StartEmmPFvvES2_S2_+0x48)
+kirikae: 26460 recompiled function calls, 0 interpreted instructions, exit code 1
+
+switchrecomp: the game exited with exit code: 1; see the log above, and `switchrecomp coverage oot`

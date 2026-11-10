@@ -1,0 +1,10 @@
+{
+  "dumps_dir": "C:\\Users\\irish\\AppData\\Roaming\\eden\\dump",
+  "sudachi_off": true,
+  "vsync": true,
+  "stats": true,
+  "handheld": false,
+  "seed": true,
+  "fast_regs": false,
+  "linker": "auto"
+}

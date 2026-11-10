@@ -1,0 +1,36 @@
+kirikae: svcGetInfo id 29 (subid 0) answered with 0
+kirikae: svcGetInfo id 30 (subid 0) answered with 0
+kirikae: am/IApplicationProxy command 60 is stubbed (in: 0 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+kirikae: coverage: new services item #1: am/IApplicationProxy 60 (stub, unimplemented) at 0.1s, frame 0
+kirikae: am/IApplicationProxy command 40 is stubbed (in: 0 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+kirikae: coverage: new services item #2: am/IApplicationProxy 40 (stub, unimplemented) at 0.1s, frame 0
+kirikae: am/ICommonStateGetter command 900 is stubbed (in: 0 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+kirikae: coverage: new services item #3: am/ICommonStateGetter 900 (stub, unimplemented) at 0.1s, frame 0
+kirikae: coverage: new services item #4: am/ISelfController 13 (stub, plain ok) at 0.1s, frame 0
+kirikae: coverage: new services item #5: am/ISelfController 16 (stub, plain ok) at 0.1s, frame 0
+kirikae: am/IApplicationFunctions command 320 is stubbed (in: 0 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+kirikae: coverage: new services item #6: am/IApplicationFunctions 320 (stub, unimplemented) at 0.1s, frame 0
+kirikae: am/IApplicationFunctions command 321 is stubbed (in: 0 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+kirikae: coverage: new services item #7: am/IApplicationFunctions 321 (stub, unimplemented) at 0.1s, frame 0
+kirikae: am/ISelfController command 2400 is stubbed (in: 1 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+kirikae: coverage: new services item #8: am/ISelfController 2400 (stub, unimplemented) at 0.1s, frame 0
+kirikae: pctl/IParentalControlService command 1 is stubbed (in: 0 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+kirikae: coverage: new services item #9: pctl/IParentalControlService 1 (stub, service stubbed) at 0.1s, frame 0
+kirikae: guest called svcBreak(reason=0x0, 0x4000ffd3c, 0x4) at sdk+0x1a5560 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x390)
+kirikae:   info: 00 00 00 00 (result 0x0 = 2000-0000)
+kirikae:   called from sdk+0xb8e50 (_ZN2nn4diag6detail10VAbortImplEPKcS3_S3_iPKNS_6ResultEPKNS_2os17UserExceptionInfoES3_RSt9__va_list+0x60)
+kirikae:   called from sdk+0xb8fe4 (_ZN2nn4diag6detail9AbortImplEPKcS3_S3_iS3_z+0x64)
+kirikae:   called from sdk+0xb9004 (_ZN2nn4diag6detail9AbortImplEPKcS3_S3_i+0x14)
+kirikae:   called from sdk+0xb9030 (_ZN2nn4diag6detail9AbortImplEv+0x20)
+kirikae:   called from sdk+0x171d84 (pthread_mutex_lock+0xa4)
+kirikae:   called from sdk+0x1556a0 (_ZN2nn7nlibsdk4heap14TlsHeapCentral14LockMutexSlow_Ev+0x60)
+kirikae:   called from sdk+0x15b870 (_ZN2nn7nlibsdk4heap11CentralHeap5AllocEmm+0x130)
+kirikae:   called from sdk+0x15d42c (_ZN2nn3mem17StandardAllocator8AllocateEmm+0xfc)
+kirikae:   called from main+0x81e04 (aligned_alloc+0x24)
+kirikae:   called from sdk+0xb6244 (__nnmusl_init_dso+0xe4)
+kirikae:   called from sdk+0x144 (_init+0xe4)
+kirikae:   called from rtld+0x14a0
+kirikae:   called from sdk+0x1351f0 (_ZN2nn4init5StartEmmPFvvES2_S2_+0x50)
+kirikae: coverage: 9 new item(s) not implemented in this run; see E:\switchrecomp-studio\games\oot\oot-coverage (python tools/coverage_report.py E:\switchrecomp-studio\games\oot\oot.coverage.json)
+
+switchrecomp: the game exited with exit code: 1; see the log above, and `switchrecomp coverage oot`

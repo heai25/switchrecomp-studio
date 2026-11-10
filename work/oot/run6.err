@@ -1,0 +1,773 @@
+svc 0x06 from rtld+0x2170 x0=0x4000fff78 x1=0x4000fff74 x2=0x0 x3=0x8004008
+svc 0x06 from rtld+0x2170 x0=0x4000fff78 x1=0x4000fff74 x2=0x8000000 x3=0x8004008
+svc 0x06 from rtld+0x2170 x0=0x4000fff78 x1=0x4000fff74 x2=0x8003000 x3=0x8004008
+svc 0x06 from rtld+0x2170 x0=0x4000fff78 x1=0x4000fff74 x2=0x8004000 x3=0x8004008
+svc 0x06 from rtld+0x2170 x0=0x4000fff78 x1=0x4000fff74 x2=0x8020000 x3=0x8004008
+svc 0x06 from rtld+0x2170 x0=0x4000ffee8 x1=0x4000fff2c x2=0x8020000 x3=0x8004008
+svc 0x06 from rtld+0x2170 x0=0x4000fff78 x1=0x4000fff74 x2=0xbc07000 x3=0xcc37b00
+svc 0x06 from rtld+0x2170 x0=0x4000fff78 x1=0x4000fff74 x2=0xc809000 x3=0xcc37b00
+svc 0x06 from rtld+0x2170 x0=0x4000fff78 x1=0x4000fff74 x2=0xce50000 x3=0xcc37b00
+svc 0x06 from rtld+0x2170 x0=0x4000ffee8 x1=0x4000fff2c x2=0xce50000 x3=0xcc37b00
+svc 0x06 from rtld+0x2170 x0=0x4000fff78 x1=0x4000fff74 x2=0xced5000 x3=0xcf106e8
+svc 0x06 from rtld+0x2170 x0=0x4000fff78 x1=0x4000fff74 x2=0xcf0f000 x3=0xcf106e8
+svc 0x06 from rtld+0x2170 x0=0x4000fff78 x1=0x4000fff74 x2=0xcf30000 x3=0xcf106e8
+svc 0x06 from rtld+0x2170 x0=0x4000ffee8 x1=0x4000fff2c x2=0xcf30000 x3=0xcf106e8
+svc 0x06 from rtld+0x2170 x0=0x4000fff78 x1=0x4000fff74 x2=0xd7af000 x3=0xddb9880
+svc 0x06 from rtld+0x2170 x0=0x4000fff78 x1=0x4000fff74 x2=0xdd7f000 x3=0xddb9880
+svc 0x06 from rtld+0x2170 x0=0x4000fff78 x1=0x4000fff74 x2=0xdfb0000 x3=0xddb9880
+svc 0x06 from rtld+0x2170 x0=0x4000fff78 x1=0x4000fff74 x2=0x400000000 x3=0xddb9880
+svc 0x06 from rtld+0x2170 x0=0x4000fff78 x1=0x4000fff74 x2=0x400100000 x3=0xddb9880
+svc 0x06 from rtld+0x2170 x0=0x4000fff78 x1=0x4000fff74 x2=0x480000000 x3=0xddb9880
+svc 0x06 from rtld+0x2170 x0=0x4000fff78 x1=0x4000fff74 x2=0x480001000 x3=0xddb9880
+svc 0x06 from rtld+0x2170 x0=0x4000fff78 x1=0x4000fff74 x2=0x8000000000 x3=0xddb9880
+svc 0x29 from sdk+0x1a5574 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x3a4) x0=0x4000ffed0 x1=0xb x2=0x0 x3=0x2
+svc 0x29 from sdk+0x1a5574 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x3a4) x0=0x4000ffed8 x1=0xb x2=0x0 x3=0x3
+svc 0x29 from sdk+0x1a5574 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x3a4) x0=0x4000ffed8 x1=0x4 x2=0xffff8001 x3=0x0
+svc 0x29 from sdk+0x1a5574 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x3a4) x0=0x4000ffed8 x1=0x5 x2=0xffff8001 x3=0x0
+svc 0x29 from sdk+0x1a5574 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x3a4) x0=0x4000ffed8 x1=0x2 x2=0xffff8001 x3=0x0
+svc 0x29 from sdk+0x1a5574 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x3a4) x0=0x4000ffed8 x1=0x3 x2=0xffff8001 x3=0x0
+svc 0x29 from sdk+0x1a5574 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x3a4) x0=0x4000ffed8 x1=0x1d x2=0xffff8001 x3=0x0
+kirikae: svcGetInfo id 29 (subid 0) answered with 0
+svc 0x29 from sdk+0x1a5574 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x3a4) x0=0x4000ffed8 x1=0x1e x2=0xffff8001 x3=0x0
+kirikae: svcGetInfo id 30 (subid 0) answered with 0
+svc 0x29 from sdk+0x1a5574 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x3a4) x0=0x4000ffed8 x1=0xc x2=0xffff8001 x3=0x0
+svc 0x29 from sdk+0x1a5574 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x3a4) x0=0x4000ffed8 x1=0xd x2=0xffff8001 x3=0x0
+svc 0x29 from sdk+0x1a5574 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x3a4) x0=0x4000ffee8 x1=0xe x2=0xffff8001 x3=0x0
+svc 0x29 from sdk+0x1a5574 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x3a4) x0=0x4000ffee8 x1=0xe x2=0xffff8001 x3=0x0
+svc 0x29 from sdk+0x1a5574 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x3a4) x0=0x4000ffee8 x1=0xf x2=0xffff8001 x3=0x0
+svc 0x06 from sdk+0x1a53e4 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x214) x0=0x4000ffe78 x1=0x4000ffebc x2=0x4000ffea0 x3=0x10000
+svc 0x0c from sdk+0x1a5434 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x264) x0=0x4000ffeb8 x1=0x10001 x2=0x4000ffebc x3=0x10000
+svc 0x25 from sdk+0x1a554c (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x37c) x0=0x4000ffe70 x1=0x10001 x2=0x1c0 x3=0x400000000
+svc 0x29 from sdk+0x1a5574 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x3a4) x0=0x4000ffed8 x1=0x2 x2=0xffff8001 x3=0x0
+svc 0x29 from sdk+0x1a5574 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x3a4) x0=0x4000ffed0 x1=0x3 x2=0xffff8001 x3=0x0
+svc 0x29 from sdk+0x1a5574 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x3a4) x0=0x4000ffec8 x1=0x1c x2=0xffff8001 x3=0x0
+svc 0x29 from sdk+0x1a5574 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x3a4) x0=0x4000ffee8 x1=0x1d x2=0xffff8001 x3=0x0
+svc 0x29 from sdk+0x1a5574 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x3a4) x0=0x4000ffee8 x1=0x1d x2=0xffff8001 x3=0x0
+svc 0x29 from sdk+0x1a5574 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x3a4) x0=0x4000ffee8 x1=0x1e x2=0xffff8001 x3=0x0
+svc 0x29 from sdk+0x1a5574 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x3a4) x0=0x4000ffed8 x1=0x16 x2=0xffff8001 x3=0x0
+svc 0x29 from sdk+0x1a5574 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x3a4) x0=0x4000ffed8 x1=0x15 x2=0xffff8001 x3=0x0
+svc 0x06 from sdk+0x1a53e4 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x214) x0=0x4000fff48 x1=0x4000fff44 x2=0x8020000 x3=0x0
+svc 0x1f from sdk+0x1a550c (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x33c) x0=0x4000ffe6c x1=0xdb1105e x2=0x10001 x3=0xde83f30
+ipc: ConnectToNamedPort("sm:")
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20001 x1=0x10001 x2=0x10001 x3=0xde83f30
+ipc: sm: cmd 0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20001 x1=0xdaf1cd7 x2=0x2 x3=0xde83f30
+ipc: sm: cmd 1
+ipc: sm: GetServiceHandle("lm")
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20002 x1=0x480000000 x2=0x100 x3=0x20002
+ipc: control cmd 3
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20002 x1=0x480000000 x2=0x100 x3=0x20002
+ipc: control cmd 0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20002 x1=0x480000000 x2=0x100 x3=0x0
+ipc: lm cmd 0
+svc 0x29 from sdk+0x1a5574 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x3a4) x0=0x4000fff88 x1=0x0 x2=0xffff8001 x3=0x0
+svc 0x29 from sdk+0x1a5574 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x3a4) x0=0x4000fff48 x1=0x0 x2=0xffff8001 x3=0x0
+svc 0x29 from sdk+0x1a5574 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x3a4) x0=0x4000fff88 x1=0x10 x2=0xffff8001 x3=0x0
+svc 0x29 from sdk+0x1a5574 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x3a4) x0=0x4000fff68 x1=0x21 x2=0xffff8001 x3=0x0
+svc 0x2c from sdk+0x1a5588 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x3b8) x0=0x1000000000 x1=0x1000 x2=0x4000fff68 x3=0x0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20001 x1=0xdb1edb5 x2=0x8 x3=0xdb1edb5
+ipc: sm: cmd 1
+ipc: sm: GetServiceHandle("appletOE")
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0x20003
+ipc: control cmd 3
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0x20003
+ipc: control cmd 0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0x4000ffdf8
+ipc: appletOE cmd 10
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0x4000ffec8
+ipc: am/IApplicationProxy cmd 20
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0x4000ffec8
+ipc: am/IApplicationProxy cmd 60
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0x4000ffec8
+ipc: am/IApplicationProxy cmd 40
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0x4000ffe98
+ipc: am/IApplicationProxy cmd 11
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0x4000ffe98
+ipc: am/IApplicationProxy cmd 0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0x4000ffe98
+ipc: am/IApplicationProxy cmd 1
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0x4000ffe98
+ipc: am/IApplicationProxy cmd 2
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0x4000ffe98
+ipc: am/IWindowController cmd 1
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0x4000ffe98
+ipc: am/IApplicationProxy cmd 3
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0x4000ffe98
+ipc: am/IApplicationProxy cmd 4
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0x4000ffe98
+ipc: am/IApplicationProxy cmd 1000
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0x4000ffe98
+ipc: am/ICommonStateGetter cmd 900
+kirikae: am/ICommonStateGetter command 900 is stubbed (in: 0 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0x4000ffe98
+ipc: am/ISelfController cmd 91
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0x0
+ipc: am/IApplicationFunctions cmd 130
+svc 0x29 from sdk+0x1a5574 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x3a4) x0=0x4000ffeb8 x1=0x0 x2=0xffff8001 x3=0x0
+svc 0x06 from sdk+0x1a53e4 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x214) x0=0x4000ffd38 x1=0x4000ffd34 x2=0x4824f2000 x3=0x0
+svc 0x04 from sdk+0x1a53d0 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x200) x0=0x482502000 x1=0xddf6000 x2=0x1000 x3=0x0
+svc 0x06 from sdk+0x1a53e4 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x214) x0=0x4000ffd78 x1=0x4000ffd74 x2=0x4824f2000 x3=0x10000
+svc 0x06 from sdk+0x1a53e4 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x214) x0=0x4000ffd78 x1=0x4000ffd74 x2=0x482503000 x3=0x10000
+svc 0x08 from sdk+0x1a5404 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x234) x0=0x4000ffe3c x1=0xd09eb00 x2=0xddf5000 x3=0x482502fe0
+ipc: CreateThread(entry=sdk+0x16eb00 (_ZNK2nn2os6detail26ThreadManagerImplByHorizon26GetThreadAvailableCoreMaskEv+0x170), stack=0x482502fe0, prio=28, core=3) -> 0x20007
+svc 0x25 from sdk+0x1a554c (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x37c) x0=0x4000ffe30 x1=0x20007 x2=0x4000ffe3c x3=0x482502fe0
+svc 0x0f from sdk+0x1a5470 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2a0) x0=0x20007 x1=0x3 x2=0x8 x3=0x8
+ipc: SetThreadCoreMask(thread 82, core 3, mask 0x8)
+svc 0x09 from sdk+0x1a5418 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x248) x0=0x20007 x1=0xddf5000 x2=0x10001 x3=0x8
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0x8
+ipc: am/ICommonStateGetter cmd 0
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x482502b2c x1=0x482502e40 x2=0x1 x3=0xffffffffffffffff
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000fff58 x1=0x4000fff5c x2=0x1 x3=0xffffffffffffffff
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0xffffffffffffffff
+ipc: am/ICommonStateGetter cmd 1
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0xffffffffffffffff
+ipc: am/ICommonStateGetter cmd 9
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0xffffffffffffffff
+ipc: am/IWindowController cmd 10
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0x1
+ipc: am/ISelfController cmd 13
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0x1
+ipc: am/ISelfController cmd 16
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0x140
+ipc: am/IApplicationFunctions cmd 320
+kirikae: am/IApplicationFunctions command 320 is stubbed (in: 0 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0x140
+ipc: am/IApplicationFunctions cmd 321
+kirikae: am/IApplicationFunctions command 321 is stubbed (in: 0 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0x140
+ipc: am/ISelfController cmd 2400
+kirikae: am/ISelfController command 2400 is stubbed (in: 1 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20001 x1=0xdb302ca x2=0x5 x3=0xde40f40
+ipc: sm: cmd 1
+ipc: sm: GetServiceHandle("aoc:u")
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20001 x1=0xdb6e190 x2=0x7 x3=0xde78510
+ipc: sm: cmd 1
+ipc: sm: GetServiceHandle("ectx:aw")
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20009 x1=0x480000000 x2=0x100 x3=0x20009
+ipc: control cmd 3
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20009 x1=0x480000000 x2=0x100 x3=0x20009
+ipc: control cmd 0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20001 x1=0xdb90c24 x2=0x4 x3=0xdea5d90
+ipc: sm: cmd 1
+ipc: sm: GetServiceHandle("pctl")
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x2000a x1=0x480000000 x2=0x100 x3=0x2000a
+ipc: control cmd 3
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x2000a x1=0x480000000 x2=0x100 x3=0x2000a
+ipc: control cmd 0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x2000a x1=0x480000000 x2=0x100 x3=0x1
+ipc: pctl cmd 1
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20001 x1=0xdb90c29 x2=0x6 x3=0x1
+ipc: sm: cmd 1
+ipc: sm: GetServiceHandle("pctl:s")
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x2000b x1=0x480000000 x2=0x100 x3=0x2000b
+ipc: control cmd 3
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x2000b x1=0x480000000 x2=0x100 x3=0x2000b
+ipc: control cmd 0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x2000b x1=0x480000000 x2=0x100 x3=0x1
+ipc: pctl:s cmd 1
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x2000b x1=0x480000000 x2=0x100 x3=0x1
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x2000b x1=0x480000000 x2=0x100 x3=0x8
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x2000b x1=0x480000000 x2=0x100 x3=0x8
+svc 0x16 from sdk+0x1a54b8 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2e8) x0=0x2000b x1=0x480000000 x2=0x100 x3=0x8
+ipc: CloseHandle(0x2000b) of an unknown handle
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20001 x1=0xdb90c30 x2=0x6 x3=0x8
+ipc: sm: cmd 1
+ipc: sm: GetServiceHandle("pctl:a")
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x2000c x1=0x480000000 x2=0x100 x3=0x2000c
+ipc: control cmd 3
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x2000c x1=0x480000000 x2=0x100 x3=0x2000c
+ipc: control cmd 0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x2000c x1=0x480000000 x2=0x100 x3=0x1
+ipc: pctl:a cmd 1
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x2000c x1=0x480000000 x2=0x100 x3=0x1
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x2000c x1=0x480000000 x2=0x100 x3=0x8
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x2000c x1=0x480000000 x2=0x100 x3=0x8
+svc 0x16 from sdk+0x1a54b8 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2e8) x0=0x2000c x1=0x480000000 x2=0x100 x3=0x8
+ipc: CloseHandle(0x2000c) of an unknown handle
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20001 x1=0xdb90c37 x2=0x6 x3=0x8
+ipc: sm: cmd 1
+ipc: sm: GetServiceHandle("pctl:r")
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x2000d x1=0x480000000 x2=0x100 x3=0x2000d
+ipc: control cmd 3
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x2000d x1=0x480000000 x2=0x100 x3=0x2000d
+ipc: control cmd 0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x2000d x1=0x480000000 x2=0x100 x3=0x1
+ipc: pctl:r cmd 1
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x2000d x1=0x480000000 x2=0x100 x3=0x1
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x2000d x1=0x480000000 x2=0x100 x3=0x8
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x2000d x1=0x480000000 x2=0x100 x3=0x8
+svc 0x16 from sdk+0x1a54b8 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2e8) x0=0x2000d x1=0x480000000 x2=0x100 x3=0x8
+ipc: CloseHandle(0x2000d) of an unknown handle
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x2000a x1=0x480000000 x2=0x100 x3=0x8
+ipc: pctl/IParentalControlService cmd 1
+kirikae: pctl/IParentalControlService command 1 is stubbed (in: 0 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20001 x1=0xdb9552c x2=0x6 x3=0xdeaeb80
+ipc: sm: cmd 1
+ipc: sm: GetServiceHandle("time:u")
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x2000e x1=0x480000000 x2=0x100 x3=0x2000e
+ipc: control cmd 3
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x2000e x1=0x480000000 x2=0x100 x3=0x2000e
+ipc: control cmd 0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x2000e x1=0x480000000 x2=0x100 x3=0x4000fff28
+ipc: time:u cmd 3
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x2000e x1=0x480000000 x2=0x100 x3=0x4000fff28
+ipc: time:u cmd 20
+svc 0x06 from sdk+0x1a53e4 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x214) x0=0x4000ffdd8 x1=0x4000ffdd4 x2=0x2aac301000 x3=0x0
+svc 0x13 from sdk+0x1a5490 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2c0) x0=0x2000f x1=0x2aac305000 x2=0x1000 x3=0x1
+svc 0x06 from sdk+0x1a53e4 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x214) x0=0x4000ffe18 x1=0x4000ffe14 x2=0x2aac301000 x3=0x4000
+svc 0x06 from sdk+0x1a53e4 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x214) x0=0x4000ffe18 x1=0x4000ffe14 x2=0x2aac306000 x3=0x4000
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0x4000
+ipc: am/ICommonStateGetter cmd 66
+svc 0x29 from sdk+0x1a5574 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x3a4) x0=0x4000fff38 x1=0x16 x2=0xffff8001 x3=0x0
+svc 0x29 from sdk+0x1a5574 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x3a4) x0=0x4000fff38 x1=0x15 x2=0xffff8001 x3=0x0
+svc 0x01 from sdk+0x1a53ac (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x1dc) x0=0x4000fff28 x1=0x15200000 x2=0x15200000 x3=0x0
+svc 0x29 from sdk+0x1a5574 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x3a4) x0=0x4000ffd78 x1=0x21 x2=0xffff8001 x3=0x0
+svc 0x02 from sdk+0x1a53c0 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x1f0) x0=0xdd7f000 x1=0x61000 x2=0x1 x3=0x0
+svc 0x03 from sdk+0x1a53c8 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x1f8) x0=0xdd7f000 x1=0x61000 x2=0x10 x3=0x10
+svc 0x29 from sdk+0x1a5574 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x3a4) x0=0x4000ffd78 x1=0x21 x2=0xffff8001 x3=0x0
+svc 0x02 from sdk+0x1a53c0 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x1f0) x0=0xcf0f000 x1=0x11000 x2=0x1 x3=0x0
+svc 0x03 from sdk+0x1a53c8 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x1f8) x0=0xcf0f000 x1=0x11000 x2=0x10 x3=0x10
+svc 0x29 from sdk+0x1a5574 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x3a4) x0=0x4000ffee8 x1=0x21 x2=0xffff8001 x3=0x0
+svc 0x03 from sdk+0x1a53c8 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x1f8) x0=0xc809000 x1=0x477000 x2=0x10 x3=0x10
+svc 0x29 from rtld+0x2198 x0=0x4000ffee8 x1=0x21 x2=0xffff8001 x3=0x0
+svc 0x02 from rtld+0x215c x0=0x8004000 x1=0xc000 x2=0x1 x3=0x0
+svc 0x03 from rtld+0x2164 x0=0x8004000 x1=0xc000 x2=0x10 x3=0x10
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0x10
+ipc: am/ICommonStateGetter cmd 66
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0x1
+ipc: am/ISelfController cmd 13
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0x1
+ipc: am/ISelfController cmd 16
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0x1
+ipc: am/ISelfController cmd 14
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0x1
+ipc: am/ISelfController cmd 11
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0x1
+ipc: am/ISelfController cmd 12
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0x1
+ipc: am/IGraphicsScalingParametersFunctions cmd 1050
+svc 0x0d from sdk+0x1a5448 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x278) x0=0x10001 x1=0x2c x2=0x10 x3=0x0
+svc 0x29 from sdk+0x1a5574 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x3a4) x0=0x4000ffcc8 x1=0x0 x2=0xffff8001 x3=0x0
+svc 0x0f from sdk+0x1a5470 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2a0) x0=0x10001 x1=0xffffffff x2=0x1 x3=0x1
+ipc: SetThreadCoreMask(thread 81, core -1, mask 0x1)
+svc 0x10 from sdk+0x1a5478 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2a8) x0=0xddf7138 x1=0x202400290 x2=0x11 x3=0x1
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20001 x1=0xdb04ea2 x2=0x7 x3=0x8a16ca0
+ipc: sm: cmd 1
+ipc: sm: GetServiceHandle("fsp-srv")
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20010 x1=0x480000000 x2=0x100 x3=0x8a16ca0
+ipc: control cmd 3
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20010 x1=0x480000000 x2=0x100 x3=0x8a16ca0
+ipc: control cmd 0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20010 x1=0x480000000 x2=0x100 x3=0x8a16ca0
+ipc: control cmd 2
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20011 x1=0x480000000 x2=0x100 x3=0x8a16ca0
+ipc: control cmd 2
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20012 x1=0x480000000 x2=0x100 x3=0x8a16ca0
+ipc: control cmd 2
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20013 x1=0x480000000 x2=0x100 x3=0x8a16ca0
+ipc: control cmd 2
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20014 x1=0x480000000 x2=0x100 x3=0x8a16ca0
+ipc: fsp-srv cmd 1
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20014 x1=0x480000000 x2=0x100 x3=0x8a16ca0
+ipc: fsp-srv cmd 1005
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20014 x1=0x480000000 x2=0x100 x3=0x4000ffc18
+ipc: fsp-srv cmd 200
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20014 x1=0x480000000 x2=0x100 x3=0x4000ffb6c
+ipc: fs/IStorage(RomFS) cmd 0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20014 x1=0x480000000 x2=0x100 x3=0x4000ffb6c
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20014 x1=0x480000000 x2=0x100 x3=0x4000ffc28
+ipc: fsp-srv cmd 200
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20014 x1=0x480000000 x2=0x100 x3=0x4000ff98c
+ipc: fs/IStorage(RomFS) cmd 0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20014 x1=0x480000000 x2=0x100 x3=0x4000ff98c
+ipc: fs/IStorage(RomFS) cmd 4
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20014 x1=0x480000000 x2=0x100 x3=0x4000ff98c
+ipc: fs/IStorage(RomFS) cmd 0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20014 x1=0x480000000 x2=0x100 x3=0x4000ff98c
+ipc: fs/IStorage(RomFS) cmd 0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20014 x1=0x480000000 x2=0x100 x3=0x4000ff98c
+ipc: fs/IStorage(RomFS) cmd 0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20014 x1=0x480000000 x2=0x100 x3=0x4000ff98c
+ipc: fs/IStorage(RomFS) cmd 0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20014 x1=0x480000000 x2=0x100 x3=0x4000ff8fc
+ipc: fs/IStorage(RomFS) cmd 0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20014 x1=0x480000000 x2=0x100 x3=0x4000ff72c
+ipc: fs/IStorage(RomFS) cmd 0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0xb430550
+ipc: am/IApplicationFunctions cmd 21
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0xb430550
+ipc: am/IApplicationFunctions cmd 21
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20014 x1=0x480000000 x2=0x100 x3=0x4000ff98c
+ipc: fs/IStorage(RomFS) cmd 0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20014 x1=0x480000000 x2=0x100 x3=0x4000ffa0c
+ipc: fs/IStorage(RomFS) cmd 0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0x1000
+ipc: am/IApplicationFunctions cmd 210
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0x0
+ipc: am/ICommonStateGetter cmd 5
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ffd18 x1=0x4000ffd1c x2=0x1 x3=0x0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0x0
+ipc: am/ICommonStateGetter cmd 6
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0x0
+ipc: am/ICommonStateGetter cmd 9
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0x0
+ipc: am/IGraphicsScalingParametersFunctions cmd 10
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20003 x1=0x480000000 x2=0x100 x3=0x1
+ipc: am/ISelfController cmd 2000
+svc 0x29 from sdk+0x1a5574 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x3a4) x0=0x4000ffc48 x1=0x1f x2=0xffff8001 x3=0x0
+kirikae: svcGetInfo id 31 (subid 0) answered with 0
+svc 0x29 from sdk+0x1a5574 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x3a4) x0=0x4000ffc48 x1=0x20 x2=0xffff8001 x3=0x0
+kirikae: svcGetInfo id 32 (subid 0) answered with 0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x4000ffc48 x3=0x0
+ipc: nx2:gsv cmd 4
+kirikae: nx2 gsv cmd 4 (ok) [0x60 0x0 0x7 0x80000000 0x0 0x0 0x0 0x0] copy=1 move=0 x=0 a=0 b=0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x4000ffc48 x3=0x0
+ipc: nx2:gsv cmd 11
+kirikae: nx2 gsv cmd 11 (ok) [] copy=1 move=0 x=0 a=0 b=0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x4000ffc48 x3=0x0
+ipc: nx2:gsv cmd 101
+kirikae: nx2 gsv cmd 101 (ok) [] copy=0 move=0 x=0 a=0 b=0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:gsv cmd 126
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:gsv cmd 1501
+kirikae: nx2 gsv cmd 1501 (ok) [] copy=0 move=0 x=0 a=0 b=0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:gsv cmd 1502
+kirikae: nx2 gsv cmd 1502 (ok) [] copy=0 move=0 x=0 a=0 b=0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:gsv cmd 1402
+kirikae: nx2 gsv cmd 1402 -> nvsrv session [] copy=0 move=0 x=0 a=0 b=0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20017 x1=0x480000000 x2=0x100 x3=0x4
+ipc: control cmd 4
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20017 x1=0x480000000 x2=0x100 x3=0x20
+ipc: nx2:nvsrv cmd 13
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0x1
+ipc: nx2:gsv cmd 201
+kirikae: nx2 gsv cmd 201 (ok) [] copy=0 move=0 x=0 a=0 b=0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0x1
+ipc: nx2:gsv cmd 202
+kirikae: nx2 gsv cmd 202 -> syncpt session [] copy=0 move=0 x=0 a=0 b=0
+svc 0x15 from sdk+0x1a54a4 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2d4) x0=0x4000ffb4c x1=0xde7a000 x2=0x1000 x3=0x3
+svc 0x15 from sdk+0x1a54a4 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2d4) x0=0x4000ffb4c x1=0xde7b000 x2=0x2000 x3=0x1
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0x4000ffbb4
+ipc: nx2:gsv cmd 204
+kirikae: nx2 gsv cmd 204 attach syncpt memory rw=Some((de7a000, 1000)) ro=Some((de7b000, 2000)) [0x1 0x1ff 0x1000 0x0 0x2000 0x0] copy=2 move=0 x=0 a=0 b=0
+svc 0x16 from sdk+0x1a54b8 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2e8) x0=0x2001b x1=0x2001d x2=0x1 x3=0x0
+svc 0x16 from sdk+0x1a54b8 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2e8) x0=0x2001a x1=0x2001d x2=0x1 x3=0x0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20019 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:syncpt cmd 1
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20019 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:syncpt cmd 21
+kirikae: nx2 syncpt cmd 21 (stub, zeroed) [0x20] copy=0 move=0 x=0 a=0 b=0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:gsv cmd 115
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:gsv cmd 1101
+kirikae: nx2 gsv cmd 1101 (ok) [] copy=0 move=0 x=0 a=0 b=0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:gsv cmd 1102
+kirikae: nx2 gsv cmd 1102 (ok) [] copy=0 move=0 x=0 a=0 b=0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0xde78d48
+ipc: nx2:gsv cmd 497
+kirikae: nx2 gsv cmd 497 -> gpu session [0x4 0x0] copy=0 move=0 x=0 a=0 b=0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0xde78d48
+ipc: nx2:gsv cmd 401
+kirikae: nx2 gsv cmd 401 (ok) [] copy=0 move=0 x=0 a=0 b=0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0xde78d48
+ipc: nx2:gsv cmd 402
+kirikae: nx2 gsv cmd 402 (ok) [] copy=0 move=0 x=0 a=0 b=0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x2001e x1=0x0 x2=0x10001 x3=0xde78d48
+ipc: nx2:gpu cmd 11
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x2001e x1=0x0 x2=0x10001 x3=0xde78d48
+ipc: nx2:gpu cmd 12
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x2001e x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:gpu cmd 21
+kirikae: nx2 gpu cmd 21 (start) [0x0] copy=0 move=0 x=0 a=0 b=0
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ffbcc x1=0x4000ffbdc x2=0x1 x3=0x3b9ac840
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x2001e x1=0x0 x2=0x10001 x3=0x3b9ac840
+ipc: nx2:gpu cmd 22
+kirikae: nx2 gpu cmd 22 -> sub-session [] copy=0 move=0 x=0 a=0 b=0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0xdeb12ac
+ipc: nx2:gsv cmd 301
+kirikae: nx2 gsv cmd 301 (ok) [] copy=0 move=0 x=0 a=0 b=0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0xdeb12ac
+ipc: nx2:gsv cmd 305
+kirikae: nx2 gsv cmd 305 -> vi2 session [0x40000 0x3] copy=0 move=0 x=0 a=0 b=0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0xdeb12ac
+ipc: nx2:vi2 cmd 3
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0xdeb12ac
+ipc: nx2:vi2 cmd 1
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0xdeb12ac
+ipc: nx2:vi2 cmd 11
+kirikae: nx2 vi2 cmd 11 -> event [0x1] copy=0 move=0 x=0 a=0 b=0
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ffb88 x1=0x4000ffb8c x2=0x1 x3=0x0
+svc 0x12 from sdk+0x1a5488 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2b8) x0=0x20022 x1=0x0 x2=0x4000ffb88 x3=0x0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:vi2 cmd 21
+kirikae: nx2 vi2 cmd 21 (stub, zeroed) [] copy=0 move=0 x=0 a=0 b=1
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:vi2 cmd 101
+kirikae: nx2 vi2 cmd 101 (stub, zeroed) [0x61666564 0x746c75 0x1] copy=0 move=0 x=0 a=0 b=0
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ffae8 x1=0x4000ffaec x2=0x1 x3=0x0
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ffae8 x1=0x4000ffaec x2=0x1 x3=0x0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0x3
+ipc: nx2:vi2 cmd 201
+kirikae: nx2 vi2 cmd 201 (stub, zeroed) [0xdeaef48 0x0 0x2 0x3] copy=0 move=0 x=0 a=0 b=0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0x3
+ipc: nx2:vi2 cmd 212
+kirikae: nx2 vi2 cmd 212 (stub, zeroed) [0xdeaef48 0x0] copy=0 move=0 x=0 a=0 b=0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0x3
+ipc: nx2:vi2 cmd 251
+kirikae: nx2 vi2 cmd 251 (stub, zeroed) [0xdeaef48 0x0 0x61666564 0x746c75] copy=0 move=0 x=0 a=0 b=0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0xdeaef48
+ipc: nx2:vi2 cmd 111
+kirikae: nx2 vi2 cmd 111 (stub, zeroed) [0x61666564 0x746c75 0x61666564 0x746c75 0xdeaef48 0x0] copy=0 move=0 x=0 a=0 b=0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:vi2 cmd 5
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:vi2 cmd 51
+kirikae: nx2 vi2 cmd 51 (stub, zeroed) [0x7] copy=0 move=0 x=0 a=0 b=0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0xdeb1228
+ipc: nx2:vi2 cmd 31
+kirikae: nx2 vi2 cmd 31 -> event [0x0] copy=0 move=0 x=0 a=0 b=0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0xdeb1228
+ipc: nx2:vi2 cmd 261
+kirikae: nx2 vi2 cmd 261 (stub, zeroed) [0x61666564 0x746c75 0x0] copy=0 move=0 x=0 a=0 b=0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0x20023
+ipc: nx2:vi2 cmd 32
+kirikae: nx2 vi2 cmd 32 -> event [0x0] copy=1 move=0 x=0 a=0 b=0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0x2
+ipc: nx2:vi2 cmd 301
+kirikae: nx2 vi2 cmd 301 (stub, zeroed) [0x61666564 0x746c75 0x0 0x0 0x2 0x0] copy=0 move=0 x=0 a=0 b=0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20017 x1=0x480000000 x2=0x100 x3=0x4000ff97c
+ipc: nx2:nvsrv cmd 0
+ipc: nvdrv Open("/dev/nvhost-ctrl-gpu") -> fd 1
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20017 x1=0x480000000 x2=0x100 x3=0x4000ff778
+ipc: control cmd 3
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20017 x1=0x480000000 x2=0x100 x3=0x4000ff5e0
+ipc: nx2:nvsrv cmd 12
+ipc: nvdrv ioctl CtrlGpu 0xc0e84705
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20017 x1=0x480000000 x2=0x100 x3=0x4000ff480
+ipc: nx2:nvsrv cmd 12
+ipc: nvdrv ioctl CtrlGpu 0xc0184706
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20017 x1=0x480000000 x2=0x100 x3=0x4000ff4f0
+ipc: nx2:nvsrv cmd 12
+ipc: nvdrv ioctl CtrlGpu 0xc0084713
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20017 x1=0x480000000 x2=0x100 x3=0x4000ff5d8
+ipc: nx2:nvsrv cmd 1
+ipc: nvdrv ioctl CtrlGpu 0x80044701
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20017 x1=0x480000000 x2=0x100 x3=0x4000ff5d8
+ipc: nx2:nvsrv cmd 1
+ipc: nvdrv ioctl CtrlGpu 0x80284702
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20017 x1=0x480000000 x2=0x100 x3=0x4000ff790
+ipc: nx2:nvsrv cmd 12
+ipc: nvdrv ioctl CtrlGpu 0xc010471f
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20017 x1=0x480000000 x2=0x100 x3=0x2
+ipc: nx2:nvsrv cmd 4
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x2001e x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:gpu cmd 41
+kirikae: nx2 gpu cmd 41 create graphics device -> 1 [0x6d52764e 0x757047 0x0 0x0 0x0 0x0] copy=0 move=0 x=0 a=0 b=0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x2001e x1=0x0 x2=0x10001 x3=0xdde2950
+ipc: nx2:gpu cmd 33
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x2001e x1=0x0 x2=0x10001 x3=0xdde2950
+ipc: nx2:gpu cmd 203
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x2001e x1=0x0 x2=0x10001 x3=0xdde2950
+ipc: nx2:gpu cmd 202
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0xdde2950
+ipc: nx2:gsv cmd 434
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20017 x1=0x480000000 x2=0x100 x3=0x4000ff92c
+ipc: nx2:nvsrv cmd 0
+ipc: nvdrv Open("/dev/nvhost-as-gpu") -> fd 2
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20017 x1=0x480000000 x2=0x100 x3=0x4000ff878
+ipc: nx2:nvsrv cmd 1
+ipc: nvdrv ioctl AsGpu 0x40284109
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20017 x1=0x480000000 x2=0x100 x3=0x4000ff878
+ipc: nx2:nvsrv cmd 1
+ipc: nvdrv ioctl AsGpu 0x8010410b
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20017 x1=0x480000000 x2=0x100 x3=0x4000ff7c8
+ipc: nx2:nvsrv cmd 1
+ipc: nvdrv ioctl AsGpu 0xc0404108
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20017 x1=0x480000000 x2=0x100 x3=0x4000ff760
+ipc: nx2:nvsrv cmd 12
+ipc: nvdrv ioctl AsGpu 0xc0404108
+svc 0x80 from sdk+0x1a56b8 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x4e8) x0=0x20002a000 x1=0x2000 x2=0x20 x3=0x20
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20020 x1=0x0 x2=0x10001 x3=0x20
+ipc: nx2:gpu cmd 101
+svc 0x06 from sdk+0x1a53e4 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x214) x0=0x4000ffa38 x1=0x4000ffa34 x2=0x20002a000 x3=0x20
+svc 0x03 from sdk+0x1a53c8 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x1f8) x0=0x20002a000 x1=0x2000 x2=0x8 x3=0x8
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x2001e x1=0x0 x2=0x10001 x3=0x20002bfff
+ipc: nx2:gpu cmd 12
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20020 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:gpu cmd 211
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff62c x1=0x4000ff63c x2=0x1 x3=0x3b9ac900
+svc 0x80 from sdk+0x1a56b8 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x4e8) x0=0x20002e000 x1=0x12000 x2=0x20 x3=0x20
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20020 x1=0x0 x2=0x10001 x3=0x20
+ipc: nx2:gpu cmd 101
+svc 0x06 from sdk+0x1a53e4 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x214) x0=0x4000ff978 x1=0x4000ff974 x2=0x20002e000 x3=0x20
+svc 0x03 from sdk+0x1a53c8 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x1f8) x0=0x20002e000 x1=0x12000 x2=0x8 x3=0x8
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20020 x1=0x0 x2=0x10001 x3=0x20003ffff
+ipc: nx2:gpu cmd 211
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff56c x1=0x4000ff57c x2=0x1 x3=0x3b9ac920
+svc 0x80 from sdk+0x1a56b8 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x4e8) x0=0x203f0f000 x1=0x123000 x2=0x20 x3=0x20
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20020 x1=0x0 x2=0x10001 x3=0x20
+ipc: nx2:gpu cmd 101
+svc 0x06 from sdk+0x1a53e4 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x214) x0=0x4000ffa38 x1=0x4000ffa34 x2=0x203f0f000 x3=0x20
+svc 0x03 from sdk+0x1a53c8 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x1f8) x0=0x203f0f000 x1=0x123000 x2=0x8 x3=0x8
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20020 x1=0x0 x2=0x10001 x3=0x204031fff
+ipc: nx2:gpu cmd 211
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff62c x1=0x4000ff63c x2=0x1 x3=0x3b9ac920
+svc 0x80 from sdk+0x1a56b8 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x4e8) x0=0x200041000 x1=0x1000 x2=0x20 x3=0x20
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20020 x1=0x0 x2=0x10001 x3=0x20
+ipc: nx2:gpu cmd 101
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20017 x1=0x480000000 x2=0x100 x3=0x4000ff8cc
+ipc: nx2:nvsrv cmd 0
+ipc: nvdrv Open("/dev/nvhost-tsg-gpu") -> fd 3
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20017 x1=0x480000000 x2=0x100 x3=0x4000ff8fc
+ipc: nx2:nvsrv cmd 0
+ipc: nvdrv Open("/dev/nvhost-gpu") -> fd 4
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20017 x1=0x480000000 x2=0x100 x3=0x4000ff848
+ipc: nx2:nvsrv cmd 1
+kirikae: nvdrv: Channel { syncpoint: 16 } ioctl 0x40044820 is stubbed
+ipc: nvdrv ioctl Channel { syncpoint: 16 } 0x40044820
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20017 x1=0x480000000 x2=0x100 x3=0x4000ff848
+ipc: nx2:nvsrv cmd 1
+ipc: nvdrv ioctl AsGpu 0x40044101
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20017 x1=0x480000000 x2=0x100 x3=0x4000ff7f8
+ipc: nx2:nvsrv cmd 1
+kirikae: nvdrv: device /dev/nvhost-tsg-gpu is not emulated (ioctl 0xc018540b)
+ipc: nvdrv ioctl Other("/dev/nvhost-tsg-gpu") 0xc018540b
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20017 x1=0x480000000 x2=0x100 x3=0x4000ff808
+ipc: nx2:nvsrv cmd 1
+ipc: nvdrv ioctl Channel { syncpoint: 16 } 0xc020481a
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20017 x1=0x480000000 x2=0x100 x3=0x4000ff848
+ipc: nx2:nvsrv cmd 1
+ipc: nvdrv ioctl Channel { syncpoint: 16 } 0xc0104809
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20017 x1=0x480000000 x2=0x100 x3=0x7
+ipc: nx2:nvsrv cmd 4
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20017 x1=0x480000000 x2=0x100 x3=0x4000ff7f8
+ipc: nx2:nvsrv cmd 1
+ipc: nvdrv ioctl Channel { syncpoint: 16 } 0xc018480c
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20017 x1=0x480000000 x2=0x100 x3=0x4000ff848
+ipc: nx2:nvsrv cmd 1
+ipc: nvdrv ioctl Channel { syncpoint: 16 } 0x40084714
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20017 x1=0x480000000 x2=0x100 x3=0x4000ff828
+ipc: nx2:nvsrv cmd 1
+ipc: nvdrv ioctl Channel { syncpoint: 16 } 0x40044803
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20017 x1=0x480000000 x2=0x100 x3=0x4000ff8d8
+ipc: nx2:nvsrv cmd 1
+kirikae: nvdrv: Channel { syncpoint: 16 } ioctl 0xc008481f is stubbed
+ipc: nvdrv ioctl Channel { syncpoint: 16 } 0xc008481f
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20017 x1=0x480000000 x2=0x100 x3=0x4000ffa18
+ipc: nx2:nvsrv cmd 1
+kirikae: nvdrv: device /dev/nvhost-tsg-gpu is not emulated (ioctl 0xc0045408)
+ipc: nvdrv ioctl Other("/dev/nvhost-tsg-gpu") 0xc0045408
+svc 0x80 from sdk+0x1a56b8 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x4e8) x0=0x204073000 x1=0x80000 x2=0x20 x3=0x20
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20020 x1=0x0 x2=0x10001 x3=0x20
+ipc: nx2:gpu cmd 101
+svc 0x06 from sdk+0x1a53e4 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x214) x0=0x4000ff8d8 x1=0x4000ff8d4 x2=0x204073000 x3=0x20
+svc 0x03 from sdk+0x1a53c8 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x1f8) x0=0x204073000 x1=0x80000 x2=0x8 x3=0x8
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20020 x1=0x0 x2=0x10001 x3=0x2040f2fff
+ipc: nx2:gpu cmd 211
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff4cc x1=0x4000ff4dc x2=0x1 x3=0x3b9ac940
+svc 0x80 from sdk+0x1a56b8 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x4e8) x0=0x2040f3000 x1=0x7d000 x2=0x20 x3=0x20
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20020 x1=0x0 x2=0x10001 x3=0x20
+ipc: nx2:gpu cmd 101
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20020 x1=0x0 x2=0x10001 x3=0x20416ffff
+ipc: nx2:gpu cmd 211
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff4cc x1=0x4000ff4dc x2=0x1 x3=0x3b9ac960
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20017 x1=0x480000000 x2=0x100 x3=0x4000ffa08
+ipc: nx2:nvsrv cmd 1
+ipc: nvdrv ioctl Channel { syncpoint: 16 } 0xc010480b
+svc 0x80 from sdk+0x1a56b8 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x4e8) x0=0x200085000 x1=0x1000 x2=0x20 x3=0x20
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20020 x1=0x0 x2=0x10001 x3=0x20
+ipc: nx2:gpu cmd 101
+svc 0x06 from sdk+0x1a53e4 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x214) x0=0x4000ff8b8 x1=0x4000ff8b4 x2=0x200085000 x3=0x20
+svc 0x03 from sdk+0x1a53c8 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x1f8) x0=0x200085000 x1=0x1000 x2=0x8 x3=0x8
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20020 x1=0x0 x2=0x10001 x3=0x200085fff
+ipc: nx2:gpu cmd 211
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff4ac x1=0x4000ff4bc x2=0x1 x3=0x3b9ac980
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20018 x1=0x480000000 x2=0x100 x3=0x4000ff818
+ipc: control cmd 3
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20018 x1=0x480000000 x2=0x100 x3=0x4000ff660
+ipc: nx2:nvsrv cmd 11
+kirikae: gpu: Volta+/Ampere engine class 0xc797 bound (Switch 2 GPU mode)
+ipc: nvdrv ioctl Channel { syncpoint: 16 } 0xc018481b
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20018 x1=0x480000000 x2=0x100 x3=0x4000ff600
+ipc: nx2:nvsrv cmd 11
+ipc: nvdrv ioctl Channel { syncpoint: 16 } 0xc018481b
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0x1
+ipc: nx2:gsv cmd 1510
+kirikae: nx2 gsv cmd 1510 calculate requirements 2560x1440 -> 0xf00000 [0x0 0x2 0x59f09ff 0x0 0x7 0xa0 0x1 0x1] copy=0 move=0 x=0 a=0 b=0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0x1
+ipc: nx2:gsv cmd 1510
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0x1
+ipc: nx2:gsv cmd 1510
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0x1
+ipc: nx2:gsv cmd 1510
+svc 0x80 from sdk+0x1a56b8 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x4e8) x0=0x204174000 x1=0x2d00000 x2=0x20 x3=0x20
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20020 x1=0x0 x2=0x10001 x3=0x20
+ipc: nx2:gpu cmd 101
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20020 x1=0x0 x2=0x10001 x3=0x206e73fff
+ipc: nx2:gpu cmd 211
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff34c x1=0x4000ff35c x2=0x1 x3=0x3b9ac920
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0x1
+ipc: nx2:gsv cmd 1510
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0x1
+ipc: nx2:gsv cmd 1510
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0x1
+ipc: nx2:gsv cmd 1510
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0x1
+ipc: nx2:gsv cmd 1510
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0x1
+ipc: nx2:gsv cmd 1510
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0x1
+ipc: nx2:gsv cmd 1510
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0x1
+ipc: nx2:gsv cmd 1510
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0x1
+ipc: nx2:gsv cmd 1510
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0x1
+ipc: nx2:gsv cmd 1510
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0x4000ff6f0
+ipc: nx2:gsv cmd 435
+kirikae: nx2 gsv cmd 435 (stub, zeroed) [0x0 0x1 0x59f09ff 0x0 0x7 0xa0 0x1 0x1] copy=0 move=0 x=0 a=0 b=0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:gsv cmd 111
+kirikae: nx2 gsv cmd 111 (stub, zeroed) [0x3 0x0 0x0] copy=0 move=0 x=0 a=0 b=0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:gsv cmd 423
+kirikae: nx2 gsv cmd 423 (stub, zeroed) [0x0 0x4174000 0x2 0x0 0x0 0x8 0x0 0x0] copy=0 move=0 x=0 a=0 b=0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:gsv cmd 429
+kirikae: nx2 gsv cmd 429 (stub, zeroed) [0x0 0x1 0x59f09ff 0x0 0x7 0xa0 0x1 0x1] copy=0 move=0 x=0 a=0 b=0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0xd5182f0
+ipc: nx2:gsv cmd 315
+kirikae: nx2 gsv cmd 315 (stub, zeroed) [0x0 0x1] copy=0 move=0 x=0 a=0 b=0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0x4000ff6f0
+ipc: nx2:gsv cmd 435
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:gsv cmd 111
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:gsv cmd 423
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:gsv cmd 429
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0xd5182f0
+ipc: nx2:gsv cmd 315
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0x4000ff6f0
+ipc: nx2:gsv cmd 435
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:gsv cmd 111
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:gsv cmd 423
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:gsv cmd 429
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20016 x1=0x0 x2=0x10001 x3=0xd5182f0
+ipc: nx2:gsv cmd 315
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff698 x1=0x4000ff69c x2=0x1 x3=0x0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:vi2 cmd 212
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff15c x1=0x4000ff470 x2=0x1 x3=0x3b9ac960
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff698 x1=0x4000ff69c x2=0x1 x3=0x0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:vi2 cmd 212
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff15c x1=0x4000ff470 x2=0x1 x3=0x3b9ac900
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff698 x1=0x4000ff69c x2=0x1 x3=0x0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:vi2 cmd 212
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff15c x1=0x4000ff470 x2=0x1 x3=0x3b9ac960
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff698 x1=0x4000ff69c x2=0x1 x3=0x0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:vi2 cmd 212
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff15c x1=0x4000ff470 x2=0x1 x3=0x3b9ac940
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff698 x1=0x4000ff69c x2=0x1 x3=0x0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:vi2 cmd 212
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff15c x1=0x4000ff470 x2=0x1 x3=0x3b9ac940
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff698 x1=0x4000ff69c x2=0x1 x3=0x0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:vi2 cmd 212
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff15c x1=0x4000ff470 x2=0x1 x3=0x3b9ac940
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff698 x1=0x4000ff69c x2=0x1 x3=0x0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:vi2 cmd 212
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff15c x1=0x4000ff470 x2=0x1 x3=0x3b9ac960
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff698 x1=0x4000ff69c x2=0x1 x3=0x0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:vi2 cmd 212
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff15c x1=0x4000ff470 x2=0x1 x3=0x3b9ac9a0
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff698 x1=0x4000ff69c x2=0x1 x3=0x0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:vi2 cmd 212
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff15c x1=0x4000ff470 x2=0x1 x3=0x3b9ac940
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff698 x1=0x4000ff69c x2=0x1 x3=0x0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:vi2 cmd 212
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff15c x1=0x4000ff470 x2=0x1 x3=0x3b9ac960
+kirikae: [  10s] 0 frames (0.0 fps, 0.0 without the limit, longest 0 ms), GPU: 2 submits, 0 draws, 0 clears, 0 copies, 0 dispatches; 82944 native calls, 0 interpreted
+kirikae:         time per frame (ms, all threads): lock held 843.5 = native 40.7, svc 660.1, ipc 142.7, gpu 0.5, unlocked 0.0, lock wait 0.0, kernel wait 3.3, blocked 9035.5
+kirikae:           lock free per frame: 0.0 ms handing over (0 hand-overs, 0.0 µs each), 0.0 ms with nobody waiting
+kirikae:           SVCs per frame: 0x21 371.2 ms (237 calls), 0x6 102.7 ms (35 calls), 0x18 59.2 ms (34 calls), 0x29 56.9 ms (35 calls), 0x3 14.9 ms (9 calls), 0x0 12.9 ms (8 calls), 0x16 8.6 ms (5 calls), 0x2 5.0 ms (3 calls)
+kirikae:           guest-81: native 40.7, svc 658.6, ipc 142.7, gpu 0.5, unlocked 0.0, lock wait 0.0, kernel wait 1.6, blocked 9035.5 (242 SIMD/FP helper calls, 25022 op helper calls in total)
+kirikae:           guest-82: native 0.0, svc 1.5, lock wait 0.0, kernel wait 1.7 (0 SIMD/FP helper calls, 0 op helper calls in total)
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff698 x1=0x4000ff69c x2=0x1 x3=0x0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:vi2 cmd 212
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff15c x1=0x4000ff470 x2=0x1 x3=0x3b9ac980
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff698 x1=0x4000ff69c x2=0x1 x3=0x0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:vi2 cmd 212
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff15c x1=0x4000ff470 x2=0x1 x3=0x3b9ac920
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff698 x1=0x4000ff69c x2=0x1 x3=0x0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:vi2 cmd 212
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff15c x1=0x4000ff470 x2=0x1 x3=0x3b9ac960
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff698 x1=0x4000ff69c x2=0x1 x3=0x0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:vi2 cmd 212
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff15c x1=0x4000ff470 x2=0x1 x3=0x3b9ac940
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff698 x1=0x4000ff69c x2=0x1 x3=0x0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:vi2 cmd 212
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff15c x1=0x4000ff470 x2=0x1 x3=0x3b9ac940
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff698 x1=0x4000ff69c x2=0x1 x3=0x0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:vi2 cmd 212
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff15c x1=0x4000ff470 x2=0x1 x3=0x3b9ac940
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff698 x1=0x4000ff69c x2=0x1 x3=0x0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:vi2 cmd 212
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff15c x1=0x4000ff470 x2=0x1 x3=0x3b9ac940
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff698 x1=0x4000ff69c x2=0x1 x3=0x0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:vi2 cmd 212
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff15c x1=0x4000ff470 x2=0x1 x3=0x3b9ac8c0
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff698 x1=0x4000ff69c x2=0x1 x3=0x0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:vi2 cmd 212
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff15c x1=0x4000ff470 x2=0x1 x3=0x3b9ac940
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff698 x1=0x4000ff69c x2=0x1 x3=0x0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:vi2 cmd 212
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff15c x1=0x4000ff470 x2=0x1 x3=0x3b9ac960
+kirikae: [  20s] 0 frames (0.0 fps, 0.0 without the limit, longest 0 ms), GPU: 2 submits, 0 draws, 0 clears, 0 copies, 0 dispatches; 83968 native calls, 0 interpreted
+kirikae:         time per frame (ms, all threads): lock held 57.3 = native 0.3, svc 54.3, ipc 2.7, lock wait 0.0, kernel wait 0.0, blocked 10046.2
+kirikae:           lock free per frame: 0.0 ms handing over (0 hand-overs, 0.0 µs each), 0.0 ms with nobody waiting
+kirikae:           SVCs per frame: 0x18 38.2 ms (20 calls), 0x21 16.0 ms (10 calls)
+kirikae:           guest-81: native 0.3, svc 54.3, ipc 2.7, lock wait 0.0, kernel wait 0.0, blocked 10046.2 (242 SIMD/FP helper calls, 25022 op helper calls in total)
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff698 x1=0x4000ff69c x2=0x1 x3=0x0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:vi2 cmd 212
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff15c x1=0x4000ff470 x2=0x1 x3=0x3b9ac940
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff698 x1=0x4000ff69c x2=0x1 x3=0x0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:vi2 cmd 212
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff15c x1=0x4000ff470 x2=0x1 x3=0x3b9ac940
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff698 x1=0x4000ff69c x2=0x1 x3=0x0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:vi2 cmd 212
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff15c x1=0x4000ff470 x2=0x1 x3=0x3b9ac940
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff698 x1=0x4000ff69c x2=0x1 x3=0x0
+svc 0x21 from sdk+0x1a5520 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x350) x0=0x20021 x1=0x0 x2=0x10001 x3=0x0
+ipc: nx2:vi2 cmd 212
+svc 0x18 from sdk+0x1a54cc (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x2fc) x0=0x4000ff15c x1=0x4000ff470 x2=0x1 x3=0x3b9ac940

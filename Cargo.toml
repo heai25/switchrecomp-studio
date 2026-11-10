@@ -1,0 +1,47 @@
+[package]
+name = "switchrecomp"
+version = "0.1.0"
+edition = "2024"
+description = "Switch NSP decomp/recomp front end built on Kirikae: inspect, extract, recompile and refine games into native PC executables"
+license = "MIT OR Apache-2.0"
+
+# Kirikae is pinned to a known commit so builds are reproducible.
+# To move to a newer Kirikae, change `rev` (or swap to `branch = "main"`).
+[dependencies]
+kirikae-loader = { git = "https://github.com/Cor3Duo/kirikae", rev = "726c4a1bc6fd9a52a22606894b80a903f4728e55" }
+kirikae-recomp = { git = "https://github.com/Cor3Duo/kirikae", rev = "726c4a1bc6fd9a52a22606894b80a903f4728e55" }
+kirikae-a64 = { git = "https://github.com/Cor3Duo/kirikae", rev = "726c4a1bc6fd9a52a22606894b80a903f4728e55" }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+# the desktop app (switchrecomp-app): window, drag-and-drop, file pickers
+eframe = "0.31"
+rfd = "0.15"
+# NSZ / XCZ (zstd-compressed NCAs), pure Rust
+ruzstd = "0.9"
+
+# synthetic homebrew executables for the tests (no game files needed)
+[dev-dependencies]
+kirikae-testkit = { git = "https://github.com/Cor3Duo/kirikae", rev = "726c4a1bc6fd9a52a22606894b80a903f4728e55" }
+
+# switchrecomp.exe: the command line, and the engine the app runs
+[[bin]]
+name = "switchrecomp"
+path = "src/main.rs"
+
+# switchrecomp-app.exe, installed as "SwitchRecomp App.exe": the desktop app over switchrecomp.exe
+[[bin]]
+name = "switchrecomp-app"
+path = "src/app.rs"
+
+[profile.release]
+opt-level = 3
+
+# Local, patched copy of Kirikae (same commit 726c4a1, plus fixes for pixld shaders,
+# H.264 decoder recovery and GetSaveDataSize). Remove this section to go back to upstream.
+[patch."https://github.com/Cor3Duo/kirikae"]
+kirikae-loader = { path = "kirikae-src/crates/loader" }
+kirikae-recomp = { path = "kirikae-src/crates/recomp" }
+kirikae-a64 = { path = "kirikae-src/crates/a64" }
+kirikae-testkit = { path = "kirikae-src/crates/testkit" }
+kirikae-rt = { path = "kirikae-src/crates/rt" }
+kirikae-maxwell = { path = "kirikae-src/crates/maxwell" }

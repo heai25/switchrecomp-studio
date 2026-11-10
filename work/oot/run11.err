@@ -1,0 +1,75 @@
+kirikae: svcGetInfo id 29 (subid 0) answered with 0
+kirikae: svcGetInfo id 30 (subid 0) answered with 0
+kirikae: am/ICommonStateGetter command 900 is stubbed (in: 0 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+kirikae: am/IApplicationFunctions command 320 is stubbed (in: 0 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+kirikae: am/IApplicationFunctions command 321 is stubbed (in: 0 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+kirikae: am/ISelfController command 2400 is stubbed (in: 1 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+kirikae: pctl/IParentalControlService command 1 is stubbed (in: 0 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+kirikae: svcGetInfo id 31 (subid 0) answered with 0
+kirikae: svcGetInfo id 32 (subid 0) answered with 0
+kirikae: nx2 gsv cmd 4 (ok) [0x60 0x0 0x7 0x80000000 0x0 0x0 0x0 0x0] copy=1 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 11 (ok) [] copy=1 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 101 (ok) [] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 1501 (ok) [] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 1502 (ok) [] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 1402 -> nvsrv session [] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 201 (ok) [] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 202 -> syncpt session [] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 204 attach syncpt memory rw=Some((de7a000, 1000)) ro=Some((de7b000, 2000)) [0x1 0x1ff 0x1000 0x0 0x2000 0x0] copy=2 move=0 x=0 a=0 b=0
+kirikae: nx2 syncpt cmd 21 (stub, zeroed) [0x20] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 1101 (ok) [] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 1102 (ok) [] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 497 -> gpu session [0x4 0x0] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 401 (ok) [] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 402 (ok) [] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gpu cmd 21 (start) [0x0] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gpu cmd 22 -> sub-session [] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 301 (ok) [] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 305 -> vi2 session [0x40000 0x3] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 vi2 cmd 11 -> event [0x1] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 vi2 cmd 21 (stub, zeroed) [] copy=0 move=0 x=0 a=0 b=1
+kirikae: nx2 vi2 cmd 101 (stub, zeroed) [0x61666564 0x746c75 0x1] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 vi2 cmd 201 (stub, zeroed) [0xdeaef48 0x0 0x2 0x3] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 vi2 cmd 251 (stub, zeroed) [0xdeaef48 0x0 0x61666564 0x746c75] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 vi2 cmd 111 (stub, zeroed) [0x61666564 0x746c75 0x61666564 0x746c75 0xdeaef48 0x0] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 vi2 cmd 51 (stub, zeroed) [0x7] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 vi2 cmd 301 (stub, zeroed) [0x61666564 0x746c75 0x0 0x0 0x2 0x0] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gpu cmd 41 create graphics device -> 1 [0x6d52764e 0x757047 0x0 0x0 0x0 0x0] copy=0 move=0 x=0 a=0 b=0
+kirikae: gpu: Volta+/Ampere engine class 0xc797 bound (Switch 2 GPU mode)
+kirikae: nx2 gsv cmd 1510 calculate requirements 2560x1440 -> 0xf00000 [0x0 0x2 0x59f09ff 0x0 0x7 0xa0 0x1 0x1] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 435 (stub, zeroed) [0x0 0x1 0x59f09ff 0x0 0x7 0xa0 0x1 0x1] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 111 (stub, zeroed) [0x3 0x0 0x0] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 423 (stub, zeroed) [0x0 0x4174000 0x2 0x0 0x0 0x8 0x0 0x0] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 429 (stub, zeroed) [0x0 0x1 0x59f09ff 0x0 0x7 0xa0 0x1 0x1] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 315 (stub, zeroed) [0x0 0x1] copy=0 move=0 x=0 a=0 b=0
+kirikae: hid: Pro Controller connected as NpadId 0x0
+kirikae: [  10s] 0 frames (0.0 fps, 0.0 without the limit, longest 0 ms), GPU: 4 submits, 0 draws, 0 clears, 0 copies, 0 dispatches; 287565824 native calls, 0 interpreted
+kirikae:         time per frame (ms, all threads): lock held 16704.3 = native 6999.1, svc 27.8, ipc 9677.4, gpu 0.8, unlocked 0.0, lock wait 5727.7, kernel wait 19818.7, blocked 19694.7, sleep 5491.3
+kirikae:           lock free per frame: 0.0 ms handing over (0 hand-overs, 0.0 µs each), 0.0 ms with nobody waiting
+kirikae:           SVCs per frame: 0x1 5.8 ms (1 calls), 0x29 3.9 ms (67 calls), 0x2c 2.9 ms (635 calls), 0x35 2.8 ms (634 calls), 0x4 2.5 ms (23 calls), 0x34 1.9 ms (652 calls), 0x1b 1.7 ms (417 calls), 0xb 1.6 ms (879 calls)
+kirikae:           guest-81: native 5112.4, svc 15.2, ipc 72.1, gpu 0.8, unlocked 0.0, lock wait 1.6, kernel wait 4195.5, blocked 556.7, sleep 10.2 (282 SIMD/FP helper calls, 46229 op helper calls in total)
+kirikae:           guest-87: native 184.4, svc 1.2, ipc 4952.4, lock wait 67.5, kernel wait 3342.6, blocked 1235.1 (0 SIMD/FP helper calls, 2339 op helper calls in total)
+kirikae:           guest-88: native 86.7, svc 1.5, ipc 4613.6, lock wait 0.2, kernel wait 2049.9, blocked 3031.3 (0 SIMD/FP helper calls, 1111 op helper calls in total)
+kirikae:           guest-92: native 1203.2, svc 0.6, lock wait 3373.6, kernel wait 1703.3, blocked 3493.2 (0 SIMD/FP helper calls, 2509 op helper calls in total)
+kirikae:           guest-91: native 363.1, svc 0.3, lock wait 1055.5, kernel wait 827.7, blocked 7520.4 (0 SIMD/FP helper calls, 711 op helper calls in total)
+kirikae:           guest-89: native 0.8, svc 0.0, ipc 39.3, lock wait 0.0, kernel wait 27.2, blocked 244.3 (0 SIMD/FP helper calls, 19 op helper calls in total)
+kirikae: [  20s] 0 frames (0.0 fps, 0.0 without the limit, longest 0 ms), GPU: 4 submits, 0 draws, 0 clears, 0 copies, 0 dispatches; 641458176 native calls, 0 interpreted
+kirikae:         time per frame (ms, all threads): lock held 16832.2 = native 6898.2, svc 4.7, ipc 9929.3, lock wait 3230.1, kernel wait 18815.2, blocked 16871.5, sleep 4476.5
+kirikae:           lock free per frame: 0.0 ms handing over (0 hand-overs, 0.0 µs each), 0.0 ms with nobody waiting
+kirikae:           SVCs per frame: 0x21 1.6 ms (333 calls), 0x35 0.7 ms (128 calls), 0x34 0.6 ms (128 calls), 0x18 0.6 ms (122 calls), 0xb 0.6 ms (89 calls), 0x1a 0.4 ms (150 calls), 0x1b 0.3 ms (150 calls)
+kirikae:           guest-81: native 6075.0, svc 0.6, kernel wait 3924.7 (282 SIMD/FP helper calls, 46229 op helper calls in total)
+kirikae:           guest-87: native 143.0, svc 1.5, ipc 5205.5, lock wait 63.8, kernel wait 3212.6, blocked 1420.0 (0 SIMD/FP helper calls, 4857 op helper calls in total)
+kirikae:           guest-88: native 138.6, svc 1.3, ipc 4723.8, lock wait 59.8, kernel wait 3440.4, blocked 1682.5 (0 SIMD/FP helper calls, 3782 op helper calls in total)
+kirikae:           guest-92: native 306.8, svc 0.3, lock wait 1321.5, kernel wait 1420.6, blocked 6990.2 (0 SIMD/FP helper calls, 2914 op helper calls in total)
+kirikae:           guest-91: native 234.4, svc 0.4, lock wait 1784.8, kernel wait 1248.1, blocked 6778.8 (0 SIMD/FP helper calls, 955 op helper calls in total)
+kirikae:           guest-101: native 0.4, svc 0.6, lock wait 0.1, kernel wait 5568.8, sleep 4476.5 (0 SIMD/FP helper calls, 1 op helper calls in total)
+kirikae: [  30s] 0 frames (0.0 fps, 0.0 without the limit, longest 0 ms), GPU: 4 submits, 0 draws, 0 clears, 0 copies, 0 dispatches; 1071884288 native calls, 0 interpreted
+kirikae:         time per frame (ms, all threads): lock held 17343.9 = native 8581.9, svc 5.6, ipc 8756.5, lock wait 8411.0, kernel wait 14291.2, blocked 33530.0, sleep 7389.9
+kirikae:           lock free per frame: 0.0 ms handing over (0 hand-overs, 0.0 µs each), 0.0 ms with nobody waiting
+kirikae:           SVCs per frame: 0x35 1.9 ms (325 calls), 0x34 1.6 ms (327 calls), 0x21 1.0 ms (181 calls), 0xb 0.6 ms (148 calls), 0x18 0.5 ms (122 calls)
+kirikae:           guest-81: native 7288.4, svc 0.5, kernel wait 2631.7 (282 SIMD/FP helper calls, 46229 op helper calls in total)
+kirikae:           guest-87: native 2.5, svc 1.5, ipc 4878.3, lock wait 0.3, kernel wait 60.8, blocked 4052.0 (0 SIMD/FP helper calls, 4877 op helper calls in total)
+kirikae:           guest-88: native 8.1, svc 1.1, ipc 3878.1, lock wait 0.3, kernel wait 689.2, blocked 3841.6 (0 SIMD/FP helper calls, 4246 op helper calls in total)
+kirikae:           guest-91: native 690.9, svc 1.1, lock wait 4896.5, kernel wait 3358.1, blocked 48.8 (0 SIMD/FP helper calls, 1580 op helper calls in total)
+kirikae:           guest-92: native 591.0, svc 0.8, lock wait 3513.7, kernel wait 3247.9, blocked 46.6 (0 SIMD/FP helper calls, 3533 op helper calls in total)
+kirikae:           guest-101: native 0.5, svc 0.5, lock wait 0.2, kernel wait 4002.4, sleep 5983.0 (0 SIMD/FP helper calls, 1 op helper calls in total)

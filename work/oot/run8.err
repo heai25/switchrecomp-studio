@@ -1,0 +1,61 @@
+kirikae: svcGetInfo id 29 (subid 0) answered with 0
+kirikae: svcGetInfo id 30 (subid 0) answered with 0
+kirikae: am/ICommonStateGetter command 900 is stubbed (in: 0 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+kirikae: am/IApplicationFunctions command 320 is stubbed (in: 0 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+kirikae: am/IApplicationFunctions command 321 is stubbed (in: 0 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+kirikae: am/ISelfController command 2400 is stubbed (in: 1 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+kirikae: pctl/IParentalControlService command 1 is stubbed (in: 0 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+kirikae: svcGetInfo id 31 (subid 0) answered with 0
+kirikae: svcGetInfo id 32 (subid 0) answered with 0
+kirikae: nx2 gsv cmd 4 (ok) [0x60 0x0 0x7 0x80000000 0x0 0x0 0x0 0x0] copy=1 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 11 (ok) [] copy=1 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 101 (ok) [] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 1501 (ok) [] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 1502 (ok) [] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 1402 -> nvsrv session [] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 201 (ok) [] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 202 -> syncpt session [] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 204 attach syncpt memory rw=Some((de7a000, 1000)) ro=Some((de7b000, 2000)) [0x1 0x1ff 0x1000 0x0 0x2000 0x0] copy=2 move=0 x=0 a=0 b=0
+kirikae: nx2 syncpt cmd 21 (stub, zeroed) [0x20] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 1101 (ok) [] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 1102 (ok) [] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 497 -> gpu session [0x4 0x0] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 401 (ok) [] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 402 (ok) [] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gpu cmd 21 (start) [0x0] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gpu cmd 22 -> sub-session [] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 301 (ok) [] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 305 -> vi2 session [0x40000 0x3] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 vi2 cmd 11 -> event [0x1] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 vi2 cmd 21 (stub, zeroed) [] copy=0 move=0 x=0 a=0 b=1
+kirikae: nx2 vi2 cmd 101 (stub, zeroed) [0x61666564 0x746c75 0x1] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 vi2 cmd 201 (stub, zeroed) [0xdeaef48 0x0 0x2 0x3] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 vi2 cmd 251 (stub, zeroed) [0xdeaef48 0x0 0x61666564 0x746c75] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 vi2 cmd 111 (stub, zeroed) [0x61666564 0x746c75 0x61666564 0x746c75 0xdeaef48 0x0] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 vi2 cmd 51 (stub, zeroed) [0x7] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 vi2 cmd 301 (stub, zeroed) [0x61666564 0x746c75 0x0 0x0 0x2 0x0] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gpu cmd 41 create graphics device -> 1 [0x6d52764e 0x757047 0x0 0x0 0x0 0x0] copy=0 move=0 x=0 a=0 b=0
+kirikae: gpu: Volta+/Ampere engine class 0xc797 bound (Switch 2 GPU mode)
+kirikae: nx2 gsv cmd 1510 calculate requirements 2560x1440 -> 0xf00000 [0x0 0x2 0x59f09ff 0x0 0x7 0xa0 0x1 0x1] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 435 (stub, zeroed) [0x0 0x1 0x59f09ff 0x0 0x7 0xa0 0x1 0x1] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 111 (stub, zeroed) [0x3 0x0 0x0] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 423 (stub, zeroed) [0x0 0x4174000 0x2 0x0 0x0 0x8 0x0 0x0] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 429 (stub, zeroed) [0x0 0x1 0x59f09ff 0x0 0x7 0xa0 0x1 0x1] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 315 (stub, zeroed) [0x0 0x1] copy=0 move=0 x=0 a=0 b=0
+kirikae: hid: Pro Controller connected as NpadId 0x0
+kirikae: coverage: new services item #19: hid 109 (stub, plain ok) at 0.2s, frame 0
+kirikae: guest access to unmapped address 0x0 on thread 85 near pc=main+0xefd098 (_Znwm+0x38) (lr=main+0xefd098 (_Znwm+0x38), sp=0x43c777b90)
+    called from sdk+0x7e5be4 (_ZNSt3__112system_errorC1ENS_10error_codeEPKc+0x74)
+    called from sdk+0x7e61cc (_ZNSt3__120__throw_system_errorEiPKc+0x5c)
+    called from sdk+0x7e6190 (_ZNSt3__120__throw_system_errorEiPKc+0x20)
+    called from sdk+0x7d42a0 (_ZNSt3__16chrono12steady_clock3nowEv+0x50)
+    called from main+0x1035cc
+    called from main+0x235654
+    called from main+0x239fa8
+    called from main+0xd84e70
+    called from main+0x3422a18
+    called from sdk+0x1673d0 (_ZN2nn2os6detail13ThreadManager12CreateThreadEPNS0_10ThreadTypeEPFvPvES5_S5_mii+0x290)
+    called from sdk+0x16eb58 (_ZNK2nn2os6detail26ThreadManagerImplByHorizon26GetThreadAvailableCoreMaskEv+0x1c8)
+    called from 0xffffffffffff0000
+
+switchrecomp: the game exited with exit code: 4; see the log above, and `switchrecomp coverage oot`

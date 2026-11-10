@@ -1,0 +1,58 @@
+kirikae: am/ICommonStateGetter command 900 is stubbed (in: 0 bytes, A=0 B=0 X=0 C=0, called from sdk+0x13f2e4 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x34))
+kirikae: pctl/IParentalControlService command 1 is stubbed (in: 0 bytes, A=0 B=0 X=0 C=0, called from sdk+0x13f2e4 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x34))
+kirikae: bsd:u command 0 is stubbed (in: 48 bytes, A=0 B=0 X=0 C=0, called from sdk+0x13f2e4 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x34))
+kirikae: bsd:u command 1 is stubbed (in: 12 bytes, A=0 B=0 X=0 C=0, called from sdk+0x13f2e4 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x34))
+kirikae: hid: Pro Controller connected as NpadId 0x0
+kirikae: am/ISelfController command 90 is stubbed (in: 0 bytes, A=0 B=0 X=0 C=0, called from sdk+0x13f2e4 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x34))
+kirikae: rendering with Vulkan on NVIDIA GeForce GTX 1660 SUPER
+kirikae: vi: swap interval 1 from frame 0
+kirikae: display: first frame presented (Vulkan swapchain)
+kirikae: audout: opened with 6 channels (requested 6)
+kirikae: [  10s] 44 frames (4.4 fps, 4.5 without the limit, longest 2398 ms), GPU: 87 submits, 181 draws, 203 clears, 26 copies, 0 dispatches; 40555520 native calls, 0 interpreted
+kirikae:         vulkan: 181 draws, 0 skipped, 0 writing nothing, 0 with the descriptors of the one before, 0 dispatches, 0 skipped, 52 uploads (0 refreshed), 9 pipelines; 0.6s drawing, 0.0s waiting for the GPU, 0.0s reading back, 0.0s translating shaders
+kirikae:         vulkan: 0.1s of GPU work, 0 frames through the swapchain, 44 batches, 1 fence waits, 0 storage resolves, 0 storage patches, 32 MiB uploaded (0 MiB constant buffers, 0 MiB vertex streams), 0 MiB from the buffer cache (16 of 16 MiB in VRAM), 0 MiB written back
+kirikae:         time per frame (ms, all threads): lock held 231.3 = native 220.9, interp 0.0, svc 6.4, ipc 4.1, gpu 34.1, present 0.1, unlocked 0.0, lock wait 10.6, kernel wait 5.8, blocked 5603.8, sleep 28.6
+kirikae:           lock free per frame: 0.0 ms handing over (0 hand-overs, 0.0 µs each), 0.0 ms with nobody waiting
+kirikae:           SVCs per frame: 0x1b 1.5 ms (207 calls), 0x4 1.1 ms (1 calls), 0x1d 0.8 ms (49 calls), 0x1a 0.8 ms (167 calls), 0x1c 0.7 ms (77 calls), 0x32 0.6 ms (5 calls), 0x2d 0.3 ms (1 calls), 0x2c 0.2 ms (7 calls)
+kirikae:           guest-81: native 155.5, svc 3.2, ipc 2.6, lock wait 0.2, kernel wait 0.5, blocked 60.3, sleep 4.7 (511418 SIMD/FP helper calls, 353549 op helper calls in total)
+kirikae:           guest-110: native 52.7, svc 0.3, ipc 0.6, lock wait 0.2, kernel wait 0.6, blocked 143.4 (258730 SIMD/FP helper calls, 14512 op helper calls in total)
+kirikae:           guest-109: native 4.0, svc 0.6, ipc 0.2, gpu 34.1, lock wait 0.5, kernel wait 0.3, blocked 167.3, sleep 9.1 (1991 SIMD/FP helper calls, 13280 op helper calls in total)
+kirikae:           guest-122: native 2.1, svc 0.2, lock wait 0.3, blocked 3.3 (8 SIMD/FP helper calls, 3762 op helper calls in total)
+kirikae:           guest-84: native 1.6, blocked 219.3 (4 SIMD/FP helper calls, 3 op helper calls in total)
+kirikae:           guest-106: native 1.0, ipc 0.1, blocked 213.0 (2 SIMD/FP helper calls, 28 op helper calls in total)
+kirikae: [  20s] 420 frames (37.6 fps, 51.5 without the limit, longest 798 ms), GPU: 839 submits, 2652 draws, 2555 clears, 98 copies, 0 dispatches; 260848640 native calls, 0 interpreted
+kirikae:         vulkan: 2657 draws, 0 skipped, 0 writing nothing, 0 with the descriptors of the one before, 0 dispatches, 0 skipped, 90 uploads (0 refreshed), 11 pipelines; 0.7s drawing, 0.0s waiting for the GPU, 0.0s reading back, 0.0s translating shaders
+kirikae:         vulkan: 0.4s of GPU work, 0 frames through the swapchain, 421 batches, 3 fence waits, 0 storage resolves, 0 storage patches, 56 MiB uploaded (4 MiB constant buffers, 1 MiB vertex streams), 1 MiB from the buffer cache (16 of 16 MiB in VRAM), 0 MiB written back
+kirikae:         time per frame (ms, all threads): lock held 46.1 = native 40.3, svc 2.6, ipc 3.3, gpu 0.6, present 0.0, video 2.2, unlocked 0.0, lock wait 26.9, kernel wait 6.7, blocked 692.1, sleep 57.8
+kirikae:           lock free per frame: 0.0 ms handing over (0 hand-overs, 0.0 µs each), 0.0 ms with nobody waiting
+kirikae:           SVCs per frame: 0x1b 1.1 ms (181 calls), 0x1a 0.8 ms (165 calls), 0x1c 0.3 ms (33 calls), 0x1d 0.2 ms (27 calls), 0x32 0.1 ms (1 calls), 0x18 0.0 ms (7 calls), 0x17 0.0 ms (6 calls), 0x21 0.0 ms (38 calls)
+kirikae:           guest-122: native 14.9, svc 0.4, lock wait 0.9, kernel wait 0.2, blocked 1.8, sleep 0.2 (24 SIMD/FP helper calls, 234229 op helper calls in total)
+kirikae:           guest-110: native 12.0, svc 0.4, ipc 0.2, lock wait 2.2, kernel wait 1.1, blocked 10.9 (474400 SIMD/FP helper calls, 164919 op helper calls in total)
+kirikae:           guest-81: native 9.6, svc 0.6, lock wait 0.3, kernel wait 2.9, blocked 13.4 (1261952 SIMD/FP helper calls, 645471 op helper calls in total)
+kirikae:           guest-109: native 1.0, svc 0.1, ipc 0.6, gpu 0.6, lock wait 1.3, blocked 14.2, sleep 9.0 (24245 SIMD/FP helper calls, 100435 op helper calls in total)
+kirikae:           guest-130: ipc 0.3, video 1.8, lock wait 0.1, blocked 1.4 (0 SIMD/FP helper calls, 118 op helper calls in total)
+kirikae:           guest-117: ipc 1.7, video 0.4, lock wait 1.1, blocked 22.2, sleep 1.0 (4 SIMD/FP helper calls, 820 op helper calls in total)
+kirikae: [  30s] 864 frames (44.4 fps, 49.2 without the limit, longest 660 ms), GPU: 1732 submits, 18738 draws, 7695 clears, 153 copies, 0 dispatches; 305069056 native calls, 0 interpreted
+kirikae:         vulkan: 18738 draws, 0 skipped, 0 writing nothing, 0 with the descriptors of the one before, 0 dispatches, 0 skipped, 148 uploads (0 refreshed), 19 pipelines; 1.4s drawing, 0.0s waiting for the GPU, 0.0s reading back, 0.1s translating shaders
+kirikae:         vulkan: 1.3s of GPU work, 0 frames through the swapchain, 865 batches, 3 fence waits, 0 storage resolves, 0 storage patches, 236 MiB uploaded (78 MiB constant buffers, 217 MiB vertex streams), 163 MiB from the buffer cache (16 of 16 MiB in VRAM), 0 MiB written back
+kirikae:         time per frame (ms, all threads): lock held 29.7 = native 20.0, svc 1.3, ipc 8.3, gpu 2.2, present 0.0, video 11.1, unlocked 0.0, lock wait 33.2, kernel wait 15.4, blocked 274.0, sleep 57.9
+kirikae:           lock free per frame: 0.0 ms handing over (0 hand-overs, 0.0 µs each), 0.0 ms with nobody waiting
+kirikae:           SVCs per frame: 0x1b 0.5 ms (78 calls), 0x1c 0.3 ms (72 calls), 0x1d 0.2 ms (58 calls), 0x1a 0.1 ms (20 calls), 0x18 0.0 ms (7 calls), 0xb 0.0 ms (15 calls), 0x21 0.0 ms (27 calls), 0x17 0.0 ms (6 calls)
+kirikae:           guest-81: native 8.5, svc 0.5, lock wait 0.1, kernel wait 3.7, blocked 9.7 (2681719 SIMD/FP helper calls, 834468 op helper calls in total)
+kirikae:           guest-130: ipc 0.8, video 6.6, blocked 0.4 (0 SIMD/FP helper calls, 132 op helper calls in total)
+kirikae:           guest-117: native 0.2, ipc 1.7, video 4.6, lock wait 2.2, kernel wait 3.3, blocked 0.1, sleep 12.3 (24 SIMD/FP helper calls, 18518 op helper calls in total)
+kirikae:           guest-116: ipc 5.3, lock wait 0.1, blocked 17.1 (0 SIMD/FP helper calls, 4541 op helper calls in total)
+kirikae:           guest-109: native 2.7, svc 0.1, gpu 2.2, lock wait 2.7, kernel wait 2.7, blocked 9.8, sleep 2.3 (1180289 SIMD/FP helper calls, 294542 op helper calls in total)
+kirikae:           guest-110: native 4.2, ipc 0.1, lock wait 1.2, kernel wait 1.7, blocked 0.1 (578269 SIMD/FP helper calls, 192930 op helper calls in total)
+kirikae: [  40s] 1450 frames (58.6 fps, 70.2 without the limit, longest 106 ms), GPU: 2904 submits, 42178 draws, 14727 clears, 153 copies, 0 dispatches; 353423030 native calls, 0 interpreted
+kirikae:         vulkan: 42178 draws, 0 skipped, 0 writing nothing, 0 with the descriptors of the one before, 0 dispatches, 0 skipped, 148 uploads (0 refreshed), 19 pipelines; 1.7s drawing, 0.0s waiting for the GPU, 0.0s reading back, 0.1s translating shaders
+kirikae:         vulkan: 3.1s of GPU work, 0 frames through the swapchain, 1451 batches, 3 fence waits, 0 storage resolves, 0 storage patches, 356 MiB uploaded (190 MiB constant buffers, 542 MiB vertex streams), 411 MiB from the buffer cache (16 of 16 MiB in VRAM), 0 MiB written back
+kirikae:         time per frame (ms, all threads): lock held 18.3 = native 11.7, svc 0.8, ipc 5.7, gpu 0.9, present 0.0, unlocked 0.0, lock wait 14.1, kernel wait 10.5, blocked 173.4, sleep 49.4
+kirikae:           lock free per frame: 0.0 ms handing over (0 hand-overs, 0.0 µs each), 0.0 ms with nobody waiting
+kirikae:           SVCs per frame: 0x1b 0.3 ms (76 calls), 0x1c 0.2 ms (73 calls), 0x1d 0.2 ms (58 calls), 0x1a 0.1 ms (16 calls), 0xb 0.0 ms (15 calls), 0x18 0.0 ms (6 calls), 0x21 0.0 ms (23 calls), 0x17 0.0 ms (5 calls)
+kirikae:           guest-81: native 6.3, svc 0.3, kernel wait 1.0, blocked 9.4 (4639517 SIMD/FP helper calls, 1061096 op helper calls in total)
+kirikae:           guest-116: ipc 5.6, blocked 11.4 (0 SIMD/FP helper calls, 11111 op helper calls in total)
+kirikae:           guest-109: native 1.6, gpu 0.9, lock wait 0.5, kernel wait 2.5, blocked 8.6, sleep 2.8 (1343212 SIMD/FP helper calls, 551812 op helper calls in total)
+kirikae:           guest-87: native 1.5, svc 0.1, lock wait 0.2, kernel wait 0.1, blocked 14.7, sleep 0.4 (6185764 SIMD/FP helper calls, 30254 op helper calls in total)
+kirikae:           guest-88: native 1.2, svc 0.2, lock wait 0.2, kernel wait 0.1, blocked 14.8, sleep 0.7 (4241291 SIMD/FP helper calls, 33133 op helper calls in total)
+kirikae:           guest-115: native 0.6, lock wait 2.8, kernel wait 1.1, blocked 12.6 (7494540 SIMD/FP helper calls, 112881 op helper calls in total)

@@ -1,0 +1,13 @@
+/target
+/switchrecomp.exe
+/games
+/library.json
+/library.json.tmp
+*.profile
+*.coverage.json
+/SwitchRecomp App.exe
+/build.log
+
+keys/
+*.decrypted/
+

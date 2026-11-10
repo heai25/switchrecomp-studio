@@ -1,0 +1,22 @@
+Writing generated file: E:\switchrecomp-studio\target-zbic\release\build\cranelift-codegen-863a558f316194bb\out\settings.rs
+Writing generated file: E:\switchrecomp-studio\target-zbic\release\build\cranelift-codegen-863a558f316194bb\out\types.rs
+Writing generated file: E:\switchrecomp-studio\target-zbic\release\build\cranelift-codegen-863a558f316194bb\out\opcodes.rs
+Writing generated file: E:\switchrecomp-studio\target-zbic\release\build\cranelift-codegen-863a558f316194bb\out\inst_builder.rs
+Writing generated file: E:\switchrecomp-studio\target-zbic\release\build\cranelift-codegen-863a558f316194bb\out\settings-x86.rs
+Writing generated file: E:\switchrecomp-studio\target-zbic\release\build\cranelift-codegen-863a558f316194bb\out\numerics.isle
+Writing generated file: E:\switchrecomp-studio\target-zbic\release\build\cranelift-codegen-863a558f316194bb\out\isle_numerics.rs
+Writing generated file: E:\switchrecomp-studio\target-zbic\release\build\cranelift-codegen-863a558f316194bb\out\clif_opt.isle
+Writing generated file: E:\switchrecomp-studio\target-zbic\release\build\cranelift-codegen-863a558f316194bb\out\clif_lower.isle
+Writing generated file: E:\switchrecomp-studio\target-zbic\release\build\cranelift-codegen-863a558f316194bb\out\assembler.isle
+Writing generated file: E:\switchrecomp-studio\target-zbic\release\build\cranelift-codegen-863a558f316194bb\out\assembler-isle-macro.rs
+Rebuilding E:\switchrecomp-studio\target-zbic\release\build\cranelift-codegen-863a558f316194bb\out\isle_opt.rs
+Writing ISLE-generated Rust code to E:\switchrecomp-studio\target-zbic\release\build\cranelift-codegen-863a558f316194bb\out\isle_opt.rs
+Rebuilding E:\switchrecomp-studio\target-zbic\release\build\cranelift-codegen-863a558f316194bb\out\isle_x64.rs
+Writing ISLE-generated Rust code to E:\switchrecomp-studio\target-zbic\release\build\cranelift-codegen-863a558f316194bb\out\isle_x64.rs
+Rebuilding E:\switchrecomp-studio\target-zbic\release\build\cranelift-codegen-863a558f316194bb\out\isle_aarch64.rs
+Writing ISLE-generated Rust code to E:\switchrecomp-studio\target-zbic\release\build\cranelift-codegen-863a558f316194bb\out\isle_aarch64.rs
+Rebuilding E:\switchrecomp-studio\target-zbic\release\build\cranelift-codegen-863a558f316194bb\out\isle_s390x.rs
+Writing ISLE-generated Rust code to E:\switchrecomp-studio\target-zbic\release\build\cranelift-codegen-863a558f316194bb\out\isle_s390x.rs
+Rebuilding E:\switchrecomp-studio\target-zbic\release\build\cranelift-codegen-863a558f316194bb\out\isle_riscv64.rs
+Writing ISLE-generated Rust code to E:\switchrecomp-studio\target-zbic\release\build\cranelift-codegen-863a558f316194bb\out\isle_riscv64.rs
+fatal: not a git repository (or any of the parent directories): .git

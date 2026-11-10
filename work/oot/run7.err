@@ -1,0 +1,57 @@
+kirikae: svcGetInfo id 29 (subid 0) answered with 0
+kirikae: svcGetInfo id 30 (subid 0) answered with 0
+kirikae: am/ICommonStateGetter command 900 is stubbed (in: 0 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+kirikae: am/IApplicationFunctions command 320 is stubbed (in: 0 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+kirikae: am/IApplicationFunctions command 321 is stubbed (in: 0 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+kirikae: am/ISelfController command 2400 is stubbed (in: 1 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+kirikae: pctl/IParentalControlService command 1 is stubbed (in: 0 bytes, A=0 B=0 X=0 C=0, called from sdk+0x17fd40 (_ZN2nn2sf4hipc15SendSyncRequestENS_3svc6HandleEPvm+0x40))
+kirikae: svcGetInfo id 31 (subid 0) answered with 0
+kirikae: svcGetInfo id 32 (subid 0) answered with 0
+kirikae: nx2 gsv cmd 4 (ok) [0x60 0x0 0x7 0x80000000 0x0 0x0 0x0 0x0] copy=1 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 11 (ok) [] copy=1 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 101 (ok) [] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 1501 (ok) [] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 1502 (ok) [] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 1402 -> nvsrv session [] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 201 (ok) [] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 202 -> syncpt session [] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 204 attach syncpt memory rw=Some((de7a000, 1000)) ro=Some((de7b000, 2000)) [0x1 0x1ff 0x1000 0x0 0x2000 0x0] copy=2 move=0 x=0 a=0 b=0
+kirikae: nx2 syncpt cmd 21 (stub, zeroed) [0x20] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 1101 (ok) [] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 1102 (ok) [] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 497 -> gpu session [0x4 0x0] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 401 (ok) [] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 402 (ok) [] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gpu cmd 21 (start) [0x0] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gpu cmd 22 -> sub-session [] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 301 (ok) [] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 305 -> vi2 session [0x40000 0x3] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 vi2 cmd 11 -> event [0x1] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 vi2 cmd 21 (stub, zeroed) [] copy=0 move=0 x=0 a=0 b=1
+kirikae: nx2 vi2 cmd 101 (stub, zeroed) [0x61666564 0x746c75 0x1] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 vi2 cmd 201 (stub, zeroed) [0xdeaef48 0x0 0x2 0x3] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 vi2 cmd 251 (stub, zeroed) [0xdeaef48 0x0 0x61666564 0x746c75] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 vi2 cmd 111 (stub, zeroed) [0x61666564 0x746c75 0x61666564 0x746c75 0xdeaef48 0x0] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 vi2 cmd 51 (stub, zeroed) [0x7] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 vi2 cmd 301 (stub, zeroed) [0x61666564 0x746c75 0x0 0x0 0x2 0x0] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gpu cmd 41 create graphics device -> 1 [0x6d52764e 0x757047 0x0 0x0 0x0 0x0] copy=0 move=0 x=0 a=0 b=0
+kirikae: gpu: Volta+/Ampere engine class 0xc797 bound (Switch 2 GPU mode)
+kirikae: nx2 gsv cmd 1510 calculate requirements 2560x1440 -> 0xf00000 [0x0 0x2 0x59f09ff 0x0 0x7 0xa0 0x1 0x1] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 435 (stub, zeroed) [0x0 0x1 0x59f09ff 0x0 0x7 0xa0 0x1 0x1] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 111 (stub, zeroed) [0x3 0x0 0x0] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 423 (stub, zeroed) [0x0 0x4174000 0x2 0x0 0x0 0x8 0x0 0x0] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 429 (stub, zeroed) [0x0 0x1 0x59f09ff 0x0 0x7 0xa0 0x1 0x1] copy=0 move=0 x=0 a=0 b=0
+kirikae: nx2 gsv cmd 315 (stub, zeroed) [0x0 0x1] copy=0 move=0 x=0 a=0 b=0
+kirikae: the application set its terminate result to 0xe201 (module 1, description 113)
+kirikae: guest called svcBreak(reason=0x0, 0x4000ffcec, 0x4) at sdk+0x1a5560 (_ZN2nn6socket8resolver27GetResolverOptionTypeStringERKNS0_18ResolverOptionTypeE+0x390)
+kirikae:   info: 01 e2 00 00 (result 0xe201 = 2001-0113)
+kirikae:   called from sdk+0xb8ec8 (_ZN2nn4diag6detail10VAbortImplEPKcS3_S3_iPKNS_6ResultEPKNS_2os17UserExceptionInfoES3_RSt9__va_list+0xd8)
+kirikae:   called from sdk+0xb8f78 (_ZN2nn4diag6detail9AbortImplEPKcS3_S3_iPKNS_6ResultES3_z+0x58)
+kirikae:   called from sdk+0xb9068 (_ZN2nn4diag6detail9AbortImplEPKNS_6ResultE+0x28)
+kirikae:   called from sdk+0x16e918 (_ZNK2nn2os6detail26ThreadManagerImplByHorizon17SetThreadCoreMaskEPNS0_10ThreadTypeEim+0x38)
+kirikae:   called from main+0x340b86c (_ZdaPvmSt11align_val_t+0x366c)
+kirikae:   called from main+0x11c2388 (nnMain+0x3d8)
+kirikae:   called from sdk+0x1351f4 (_ZN2nn4init5StartEmmPFvvES2_S2_+0x54)
+kirikae: 82911 recompiled function calls, 0 interpreted instructions, exit code 1
+
+switchrecomp: the game exited with exit code: 1; see the log above, and `switchrecomp coverage oot`

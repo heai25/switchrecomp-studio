@@ -1,0 +1,23 @@
+kirikae: coverage: new services item #1: am/ISelfController 13 (stub, plain ok) at 0.9s, frame 0
+kirikae: coverage: new services item #2: am/ISelfController 16 (stub, plain ok) at 0.9s, frame 0
+kirikae: coverage: new services item #3: am/IApplicationFunctions 66 (stub, plain ok) at 0.9s, frame 0
+kirikae: coverage: new services item #4: am/IApplicationFunctions 67 (stub, plain ok) at 1.0s, frame 0
+kirikae: [  10s] 0 frames (0.0 fps, 0.0 without the limit, longest 0 ms), GPU: 1 submits, 0 draws, 0 clears, 0 copies, 0 dispatches; 99328 native calls, 37979136 interpreted
+kirikae:         time per frame (ms, all threads): lock held 1434.5 = native 766.3, interp 533.7, svc 8.5, ipc 126.0, gpu 0.5, unlocked 0.0, lock wait 281.1, kernel wait 0.1, blocked 102.1
+kirikae:           lock free per frame: 0.0 ms handing over (0 hand-overs, 0.0 µs each), 0.0 ms with nobody waiting
+kirikae:           SVCs per frame: 0x1 6.0 ms (1 calls), 0x16 0.5 ms (4 calls), 0x9 0.4 ms (4 calls), 0x18 0.3 ms (2 calls), 0x1d 0.3 ms (96 calls), 0x6 0.2 ms (43 calls), 0x3 0.2 ms (10 calls), 0x21 0.2 ms (228 calls)
+kirikae:           guest-81: native 766.3, interp 533.7, svc 8.4, ipc 126.0, gpu 0.5, unlocked 0.0, lock wait 0.2, kernel wait 0.1 (19 SIMD/FP helper calls, 187804 op helper calls in total)
+kirikae:           guest-82: native 0.0, svc 0.0, lock wait 0.0, kernel wait 0.0 (0 SIMD/FP helper calls, 12 op helper calls in total)
+kirikae:           guest-85: native 0.0, svc 0.0, lock wait 0.0, kernel wait 0.0, blocked 102.1 (0 SIMD/FP helper calls, 0 op helper calls in total)
+kirikae:           guest-84: native 0.0, svc 0.0, lock wait 111.3, kernel wait 0.0 (0 SIMD/FP helper calls, 0 op helper calls in total)
+kirikae:           guest-83: native 0.0, svc 0.0, lock wait 169.5, kernel wait 0.0 (0 SIMD/FP helper calls, 0 op helper calls in total)
+kirikae: [  20s] 0 frames (0.0 fps, 0.0 without the limit, longest 0 ms), GPU: 1 submits, 0 draws, 0 clears, 0 copies, 0 dispatches; 105472 native calls, 82904064 interpreted
+kirikae:         time per frame (ms, all threads): lock held 17885.5 = native 78.8, interp 17797.9, svc 0.3, ipc 8.5, lock wait 0.0, kernel wait 2.4, blocked 17874.9
+kirikae:           lock free per frame: 0.0 ms handing over (0 hand-overs, 0.0 µs each), 0.0 ms with nobody waiting
+kirikae:           SVCs per frame: 0x1d 0.2 ms (7 calls), 0x1b 0.0 ms (4 calls), 0x21 0.0 ms (8 calls), 0x1c 0.0 ms (4 calls)
+kirikae:           guest-85: native 17.7, interp 17797.9, svc 0.3, lock wait 0.0, kernel wait 2.4, blocked 67.2 (0 SIMD/FP helper calls, 0 op helper calls in total)
+kirikae:           guest-81: native 61.1, svc 0.0, ipc 8.5, lock wait 0.0, kernel wait 0.0, blocked 17807.7 (19 SIMD/FP helper calls, 187930 op helper calls in total)
+kirikae: [  30s] 0 frames (0.0 fps, 0.0 without the limit, longest 0 ms), GPU: 1 submits, 0 draws, 0 clears, 0 copies, 0 dispatches; 105472 native calls, 137189376 interpreted
+kirikae:         time per frame (ms, all threads): lock held 0.0 = 
+kirikae:           lock free per frame: 0.0 ms handing over (0 hand-overs, 0.0 µs each), 0.0 ms with nobody waiting
+kirikae:           SVCs per frame: 
